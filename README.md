@@ -4,7 +4,6 @@
 <details>
   <summary>Table of Contents</summary>
   <ol>
-    <li><a href=#image-matching>Image Matching</a></li>
     <li><a href=#processing-in-memory>Processing-in-Memory</a></li>
     <li><a href=#hybrid-pim-architectures>Hybrid PIM Architectures</a></li>
     <li><a href=#memory-centric-architectures>Memory-Centric Architectures</a></li>
@@ -22,13 +21,6 @@
     <li><a href=#rdma>RDMA</a></li>
   </ol>
 </details>
-
-## Image Matching
-
-|Publish Date|Title|Authors|PDF|Code|
-|---|---|---|---|---|
-
-<p align=right>(<a href=#updated-on-20251218>back to top</a>)</p>
 
 ## Processing-in-Memory
 
