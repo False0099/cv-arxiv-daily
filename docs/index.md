@@ -5,11 +5,6 @@ layout: default
 ## Updated on 2025.12.18
 > Usage instructions: [here](./docs/README.md#usage)
 
-## Image Matching
-
-| Publish Date | Title | Authors | PDF | Code |
-|:---------|:-----------------------|:---------|:------|:------|
-
 ## Processing-in-Memory
 
 | Publish Date | Title | Authors | PDF | Code |
