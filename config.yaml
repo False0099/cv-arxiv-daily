@@ -83,24 +83,3 @@ keywords:
                   "RDMA Read", "RDMA Write",
                   "RoCE", "InfiniBand"]
 
-    "RDMA-based Memory Systems":
-        filters: ["RDMA Memory", "RDMA-based Memory Pool",
-                  "Remote Memory", "Disaggregated Memory over RDMA"]
-
-    "DMA":
-        filters: ["DMA", "Direct Memory Access",
-                  "Bus Master DMA", "Scatter-Gather DMA"]
-
-    "DMA & IOMMU":
-        filters: ["IOMMU", "DMA Remapping",
-                  "Device Memory Access", "Address Translation for DMA"]
-
-    "NIC & Data Movement Acceleration":
-        filters: ["SmartNIC", "DPU",
-                  "Data Movement Acceleration", "Offloaded DMA"]
-
-    "Zero-Copy & Data Path Optimization":
-        filters: ["Zero-Copy", "Kernel Bypass",
-                  "User-space Networking", "Data Path Optimization"]
-
-
