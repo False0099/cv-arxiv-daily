@@ -2,13 +2,23 @@
 layout: default
 ---
 
-## Updated on 2025.12.18
+## Updated on 2025.12.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Processing-in-Memory
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-18**|**Tiny Recursive Control: Iterative Reasoning for Efficient Optimal Control**|Amit Jain et.al.|[2512.16824](http://arxiv.org/abs/2512.16824)|null|
+|**2025-12-18**|**MEPIC: Memory Efficient Position Independent Caching for LLM Serving**|Qian Wang et.al.|[2512.16822](http://arxiv.org/abs/2512.16822)|null|
+|**2025-12-18**|**Lower bounds for ranking-based pivot rules**|Yann Disser et.al.|[2512.16684](http://arxiv.org/abs/2512.16684)|null|
+|**2025-12-18**|**Scaling Laws for Energy Efficiency of Local LLMs**|Ander Alvarez et.al.|[2512.16531](http://arxiv.org/abs/2512.16531)|null|
+|**2025-12-18**|**Bunch-by-Bunch Prediction of Beam Transverse Position, Phase, and Length in a Storage Ring Using Neural Networks**|Can Liu et.al.|[2512.16311](http://arxiv.org/abs/2512.16311)|null|
+|**2025-12-18**|**Local Lyapunov Analysis via Micro-Ensembles: finite-time Lyapunov exponent Estimation and KNN-Based Predictive Comparison in Complex-Valued BAM Neural Networks**|Yazhini Muruganantham et.al.|[2512.16179](http://arxiv.org/abs/2512.16179)|null|
+|**2025-12-18**|**FlexKV: Flexible Index Offloading for Memory-Disaggregated Key-Value Store**|Zhisheng Hu et.al.|[2512.16148](http://arxiv.org/abs/2512.16148)|null|
+|**2025-12-18**|**Lotus: Optimizing Disaggregated Transactions with Disaggregated Locks**|Zhisheng Hu et.al.|[2512.16136](http://arxiv.org/abs/2512.16136)|null|
+|**2025-12-17**|**Vertical NAND in a Ferroelectric-driven Paradigm Shift**|Giuk Kim et.al.|[2512.15988](http://arxiv.org/abs/2512.15988)|null|
+|**2025-12-17**|**Dynamical Mechanisms for Coordinating Long-term Working Memory Based on the Precision of Spike-timing in Cortical Neurons**|Terrence J. Sejnowski et.al.|[2512.15891](http://arxiv.org/abs/2512.15891)|null|
 |**2025-12-17**|**Spatia: Video Generation with Updatable Spatial Memory**|Jinjing Zhao et.al.|[2512.15716](http://arxiv.org/abs/2512.15716)|null|
 |**2025-12-17**|**Dynamic Rebatching for Efficient Early-Exit Inference with DREX**|Xuting Liu et.al.|[2512.15705](http://arxiv.org/abs/2512.15705)|null|
 |**2025-12-17**|**A High-level Synthesis Toolchain for the Julia Language**|Benedict Short et.al.|[2512.15679](http://arxiv.org/abs/2512.15679)|null|
@@ -39,6 +49,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-17**|**Vertical NAND in a Ferroelectric-driven Paradigm Shift**|Giuk Kim et.al.|[2512.15988](http://arxiv.org/abs/2512.15988)|null|
 |**2025-10-13**|**Efficient In-Memory Acceleration of Sparse Block Diagonal LLMs**|João Paulo Cardoso de Lima et.al.|[2510.11192](http://arxiv.org/abs/2510.11192)|null|
 |**2025-09-26**|**CryptoSRAM: Enabling High-Throughput Cryptography on MCUs via In-SRAM Computing**|Jingyao Zhang et.al.|[2509.22986](http://arxiv.org/abs/2509.22986)|null|
 |**2025-09-04**|**Memory-Centric Computing: Solving Computing's Memory Problem**|Onur Mutlu et.al.|[2505.00458](http://arxiv.org/abs/2505.00458)|null|
@@ -69,6 +80,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-18**|**MultiPath Transfer Engine: Breaking GPU and Host-Memory Bandwidth Bottlenecks in LLM Services**|Lingfeng Tang et.al.|[2512.16056](http://arxiv.org/abs/2512.16056)|null|
 |**2025-12-15**|**FlashFuser: Expanding the Scale of Kernel Fusion for Compute-Intensive Operators via Inter-Core Connection**|Ziyu Huang et.al.|[2512.12949](http://arxiv.org/abs/2512.12949)|null|
 |**2025-12-11**|**CXL-SpecKV: A Disaggregated FPGA Speculative KV-Cache for Datacenter LLM Serving**|Dong Liu et.al.|[2512.11920](http://arxiv.org/abs/2512.11920)|null|
 |**2025-12-12**|**PD-Swap: Prefill-Decode Logic Swapping for End-to-End LLM Inference on Edge FPGAs via Dynamic Partial Reconfiguration**|Yifan Zhang et.al.|[2512.11550](http://arxiv.org/abs/2512.11550)|null|
@@ -129,6 +141,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-18**|**Silicon T centre hyperfine structure and memory protection schemes**|Nicholas Brunelle et.al.|[2512.16047](http://arxiv.org/abs/2512.16047)|null|
 |**2025-11-13**|**Impacts of Decoder Latency on Utility-Scale Quantum Computer Architectures**|Abdullah Khalid et.al.|[2511.10633](http://arxiv.org/abs/2511.10633)|null|
 |**2025-11-12**|**No Cords Attached: Coordination-Free Concurrent Lock-Free Queues**|Yusuf Motiwala et.al.|[2511.09410](http://arxiv.org/abs/2511.09410)|null|
 |**2025-11-10**|**Descriptor-Based Object-Aware Memory Systems: A Comprehensive Review**|Dong Tong et.al.|[2510.27070](http://arxiv.org/abs/2510.27070)|null|
@@ -174,6 +187,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-18**|**FlexKV: Flexible Index Offloading for Memory-Disaggregated Key-Value Store**|Zhisheng Hu et.al.|[2512.16148](http://arxiv.org/abs/2512.16148)|null|
+|**2025-12-18**|**Lotus: Optimizing Disaggregated Transactions with Disaggregated Locks**|Zhisheng Hu et.al.|[2512.16136](http://arxiv.org/abs/2512.16136)|null|
 |**2025-12-15**|**FlashFuser: Expanding the Scale of Kernel Fusion for Compute-Intensive Operators via Inter-Core Connection**|Ziyu Huang et.al.|[2512.12949](http://arxiv.org/abs/2512.12949)|null|
 |**2025-12-11**|**CXL-SpecKV: A Disaggregated FPGA Speculative KV-Cache for Datacenter LLM Serving**|Dong Liu et.al.|[2512.11920](http://arxiv.org/abs/2512.11920)|null|
 |**2025-12-08**|**Modeling the Potential of Message-Free Communication via CXL.mem**|Stepan Vanecek et.al.|[2512.08005](http://arxiv.org/abs/2512.08005)|null|
@@ -204,6 +219,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-18**|**MEPIC: Memory Efficient Position Independent Caching for LLM Serving**|Qian Wang et.al.|[2512.16822](http://arxiv.org/abs/2512.16822)|null|
+|**2025-12-12**|**AdaGradSelect: An adaptive gradient-guided layer selection method for efficient fine-tuning of SLMs**|Anshul Kumar et.al.|[2512.15764](http://arxiv.org/abs/2512.15764)|null|
 |**2025-12-16**|**EVICPRESS: Joint KV-Cache Compression and Eviction for Efficient LLM Serving**|Shaoting Feng et.al.|[2512.14946](http://arxiv.org/abs/2512.14946)|null|
 |**2025-12-16**|**CAPRMIL: Context-Aware Patch Representations for Multiple Instance Learning**|Andreas Lolos et.al.|[2512.14540](http://arxiv.org/abs/2512.14540)|null|
 |**2025-12-16**|**SASQ: Static Activation Scaling for Quantization-Aware Training in Large Language Models**|Shizhuo Mao et.al.|[2512.14481](http://arxiv.org/abs/2512.14481)|null|
@@ -219,6 +236,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-18**|**Lotus: Optimizing Disaggregated Transactions with Disaggregated Locks**|Zhisheng Hu et.al.|[2512.16136](http://arxiv.org/abs/2512.16136)|null|
 |**2025-12-11**|**SHIFT: An RDMA Failure-Resilient Layer for Distributed Training**|Shengkai Lin et.al.|[2512.11094](http://arxiv.org/abs/2512.11094)|null|
 |**2025-12-02**|**PystachIO: Efficient Distributed GPU Query Processing with PyTorch over Fast Networks & Fast Storage**|Jigao Luo et.al.|[2512.02862](http://arxiv.org/abs/2512.02862)|null|
 |**2025-12-02**|**Solutions for Distributed Memory Access Mechanism on HPC Clusters**|Jan Meizner et.al.|[2512.02546](http://arxiv.org/abs/2512.02546)|null|
