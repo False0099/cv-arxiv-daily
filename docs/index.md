@@ -2,13 +2,23 @@
 layout: default
 ---
 
-## Updated on 2025.12.22
+## Updated on 2025.12.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Processing-in-Memory
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-24**|**Fast SAM2 with Text-Driven Token Pruning**|Avilasha Mandal et.al.|[2512.21333](http://arxiv.org/abs/2512.21333)|null|
+|**2025-12-24**|**SMART SLM: Structured Memory and Reasoning Transformer, A Small Language Model for Accurate Document Assistance**|Divij Dudeja et.al.|[2512.21280](http://arxiv.org/abs/2512.21280)|null|
+|**2025-12-24**|**RoboSafe: Safeguarding Embodied Agents via Executable Safety Logic**|Le Wang et.al.|[2512.21220](http://arxiv.org/abs/2512.21220)|null|
+|**2025-12-24**|**ElfCore: A 28nm Neural Processor Enabling Dynamic Structured Sparse Training and Online Self-Supervised Learning with Activity-Dependent Weight Update**|Zhe Su et.al.|[2512.21153](http://arxiv.org/abs/2512.21153)|null|
+|**2025-12-24**|**Distilling the Essence: Efficient Reasoning Distillation via Sequence Truncation**|Wei-Rui Chen et.al.|[2512.21002](http://arxiv.org/abs/2512.21002)|null|
+|**2025-12-24**|**CoSeNet: A Novel Approach for Optimal Segmentation of Correlation Matrices**|Alberto. Palomo-Alonso et.al.|[2512.21000](http://arxiv.org/abs/2512.21000)|null|
+|**2025-12-24**|**LLM-Empowered Agentic AI for QoE-Aware Network Slicing Management in Industrial IoT**|Xudong Wang et.al.|[2512.20997](http://arxiv.org/abs/2512.20997)|null|
+|**2025-12-24**|**Reflection Pretraining Enables Token-Level Self-Correction in Biological Sequence Models**|Xiang Zhang et.al.|[2512.20954](http://arxiv.org/abs/2512.20954)|null|
+|**2025-12-23**|**Hardware-Algorithm Co-Design for Hyperdimensional Computing Based on Memristive System-on-Chip**|Yi Huang et.al.|[2512.20808](http://arxiv.org/abs/2512.20808)|null|
+|**2025-12-23**|**SA-DiffuSeq: Addressing Computational and Scalability Challenges in Long-Document Generation with Sparse Attention**|Alexandros Christoforos et.al.|[2512.20724](http://arxiv.org/abs/2512.20724)|null|
 |**2025-12-18**|**Tiny Recursive Control: Iterative Reasoning for Efficient Optimal Control**|Amit Jain et.al.|[2512.16824](http://arxiv.org/abs/2512.16824)|null|
 |**2025-12-18**|**MEPIC: Memory Efficient Position Independent Caching for LLM Serving**|Qian Wang et.al.|[2512.16822](http://arxiv.org/abs/2512.16822)|null|
 |**2025-12-18**|**Lower bounds for ranking-based pivot rules**|Yann Disser et.al.|[2512.16684](http://arxiv.org/abs/2512.16684)|null|
@@ -65,6 +75,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-01**|**KVReviver: Reversible KV Cache Compression with Sketch-Based Token Reconstruction**|Aomufei Yuan et.al.|[2512.17917](http://arxiv.org/abs/2512.17917)|null|
+|**2025-11-27**|**Q-KVComm: Efficient Multi-Agent Communication Via Adaptive KV Cache Compression**|Boris Kriuk et.al.|[2512.17914](http://arxiv.org/abs/2512.17914)|null|
 |**2025-12-16**|**EVICPRESS: Joint KV-Cache Compression and Eviction for Efficient LLM Serving**|Shaoting Feng et.al.|[2512.14946](http://arxiv.org/abs/2512.14946)|null|
 |**2025-12-12**|**Hold Onto That Thought: Assessing KV Cache Compression On Reasoning**|Minghui Liu et.al.|[2512.12008](http://arxiv.org/abs/2512.12008)|null|
 |**2025-12-11**|**CXL-SpecKV: A Disaggregated FPGA Speculative KV-Cache for Datacenter LLM Serving**|Dong Liu et.al.|[2512.11920](http://arxiv.org/abs/2512.11920)|null|
@@ -80,6 +92,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-23**|**FedMPDD: Communication-Efficient Federated Learning with Privacy Preservation Attributes via Projected Directional Derivative**|Mohammadreza Rostami et.al.|[2512.20814](http://arxiv.org/abs/2512.20814)|null|
+|**2025-12-22**|**RAPID-LLM: Resilience-Aware Performance analysis of Infrastructure for Distributed LLM Training and Inference**|George Karfakis et.al.|[2512.19606](http://arxiv.org/abs/2512.19606)|null|
+|**2025-12-20**|**Theodosian: A Deep Dive into Memory-Hierarchy-Centric FHE Acceleration**|Wonseok Choi et.al.|[2512.18345](http://arxiv.org/abs/2512.18345)|null|
+|**2025-12-13**|**Fast Online Digital Twinning on FPGA for Mission Critical Applications**|Bin Xu et.al.|[2512.17942](http://arxiv.org/abs/2512.17942)|null|
 |**2025-12-18**|**MultiPath Transfer Engine: Breaking GPU and Host-Memory Bandwidth Bottlenecks in LLM Services**|Lingfeng Tang et.al.|[2512.16056](http://arxiv.org/abs/2512.16056)|null|
 |**2025-12-15**|**FlashFuser: Expanding the Scale of Kernel Fusion for Compute-Intensive Operators via Inter-Core Connection**|Ziyu Huang et.al.|[2512.12949](http://arxiv.org/abs/2512.12949)|null|
 |**2025-12-11**|**CXL-SpecKV: A Disaggregated FPGA Speculative KV-Cache for Datacenter LLM Serving**|Dong Liu et.al.|[2512.11920](http://arxiv.org/abs/2512.11920)|null|
@@ -111,6 +127,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-23**|**RESPOND: Risk-Enhanced Structured Pattern for LLM-driven Online Node-level Decision-making**|Dan Chen et.al.|[2512.20179](http://arxiv.org/abs/2512.20179)|null|
 |**2025-11-18**|**AISAC: An Integrated multi-agent System for Transparent, Retrieval-Grounded Scientific Assistance**|Chandrachur Bhattacharya et.al.|[2511.14043](http://arxiv.org/abs/2511.14043)|null|
 |**2025-11-11**|**Machine Learning-Guided Memory Optimization for DLRM Inference on Tiered Memory**|Jie Ren et.al.|[2511.08568](http://arxiv.org/abs/2511.08568)|null|
 |**2025-10-20**|**DynaKV: Enabling Accurate and Efficient Long-Sequence LLM Decoding on Smartphones**|Tuowei Wang et.al.|[2511.07427](http://arxiv.org/abs/2511.07427)|null|
@@ -126,6 +143,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-23**|**Predictive-LoRA: A Proactive and Fragmentation-Aware Serverless Inference System for LLMs**|Yinan Ni et.al.|[2512.20210](http://arxiv.org/abs/2512.20210)|null|
 |**2025-12-16**|**VideoMem: Enhancing Ultra-Long Video Understanding via Adaptive Memory Management**|Hongbo Jin et.al.|[2512.04540](http://arxiv.org/abs/2512.04540)|null|
 |**2025-11-30**|**SpeContext: Enabling Efficient Long-context Reasoning with Speculative Context Sparsity in LLMs**|Jiaming Xu et.al.|[2512.00722](http://arxiv.org/abs/2512.00722)|null|
 |**2025-11-26**|**PySERA: Open-Source Standardized Python Library for Automated, Scalable, and Reproducible Handcrafted and Deep Radiomics**|Mohammad R. Salmanpour et.al.|[2511.15963](http://arxiv.org/abs/2511.15963)|null|
@@ -187,6 +205,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-20**|**TraCT: Disaggregated LLM Serving with CXL Shared Memory KV Cache at Rack-Scale**|Dongha Yoon et.al.|[2512.18194](http://arxiv.org/abs/2512.18194)|null|
 |**2025-12-18**|**FlexKV: Flexible Index Offloading for Memory-Disaggregated Key-Value Store**|Zhisheng Hu et.al.|[2512.16148](http://arxiv.org/abs/2512.16148)|null|
 |**2025-12-18**|**Lotus: Optimizing Disaggregated Transactions with Disaggregated Locks**|Zhisheng Hu et.al.|[2512.16136](http://arxiv.org/abs/2512.16136)|null|
 |**2025-12-15**|**FlashFuser: Expanding the Scale of Kernel Fusion for Compute-Intensive Operators via Inter-Core Connection**|Ziyu Huang et.al.|[2512.12949](http://arxiv.org/abs/2512.12949)|null|
@@ -219,6 +238,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-24**|**Fast SAM2 with Text-Driven Token Pruning**|Avilasha Mandal et.al.|[2512.21333](http://arxiv.org/abs/2512.21333)|null|
+|**2025-12-24**|**SparScene: Efficient Traffic Scene Representation via Sparse Graph Learning for Large-Scale Trajectory Generation**|Xiaoyu Mo et.al.|[2512.21133](http://arxiv.org/abs/2512.21133)|null|
+|**2025-12-24**|**RevFFN: Memory-Efficient Full-Parameter Fine-Tuning of Mixture-of-Experts LLMs with Reversible Blocks**|Ningyuan Liu et.al.|[2512.20920](http://arxiv.org/abs/2512.20920)|null|
+|**2025-12-23**|**Predictive-LoRA: A Proactive and Fragmentation-Aware Serverless Inference System for LLMs**|Yinan Ni et.al.|[2512.20210](http://arxiv.org/abs/2512.20210)|null|
+|**2025-12-22**|**RAPID-LLM: Resilience-Aware Performance analysis of Infrastructure for Distributed LLM Training and Inference**|George Karfakis et.al.|[2512.19606](http://arxiv.org/abs/2512.19606)|null|
+|**2025-12-20**|**Making Strong Error-Correcting Codes Work Effectively for HBM in AI Inference**|Rui Xie et.al.|[2512.18152](http://arxiv.org/abs/2512.18152)|null|
+|**2025-12-19**|**Diagnostic Performance of Universal-Learning Ultrasound AI Across Multiple Organs and Tasks: the UUSIC25 Challenge**|Zehui Lin et.al.|[2512.17279](http://arxiv.org/abs/2512.17279)|null|
+|**2025-12-19**|**Video Detective: Seek Critical Clues Recurrently to Answer Question from Long Videos**|Henghui Du et.al.|[2512.17229](http://arxiv.org/abs/2512.17229)|null|
+|**2025-12-18**|**Bandwidth-Efficient Adaptive Mixture-of-Experts via Low-Rank Compensation**|Zhenyu Liu et.al.|[2512.17073](http://arxiv.org/abs/2512.17073)|null|
 |**2025-12-18**|**MEPIC: Memory Efficient Position Independent Caching for LLM Serving**|Qian Wang et.al.|[2512.16822](http://arxiv.org/abs/2512.16822)|null|
 |**2025-12-12**|**AdaGradSelect: An adaptive gradient-guided layer selection method for efficient fine-tuning of SLMs**|Anshul Kumar et.al.|[2512.15764](http://arxiv.org/abs/2512.15764)|null|
 |**2025-12-16**|**EVICPRESS: Joint KV-Cache Compression and Eviction for Efficient LLM Serving**|Shaoting Feng et.al.|[2512.14946](http://arxiv.org/abs/2512.14946)|null|
@@ -236,6 +264,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-22**|**UCCL-EP: Portable Expert-Parallel Communication**|Ziming Mao et.al.|[2512.19849](http://arxiv.org/abs/2512.19849)|null|
+|**2025-12-20**|**TraCT: Disaggregated LLM Serving with CXL Shared Memory KV Cache at Rack-Scale**|Dongha Yoon et.al.|[2512.18194](http://arxiv.org/abs/2512.18194)|null|
 |**2025-12-18**|**Lotus: Optimizing Disaggregated Transactions with Disaggregated Locks**|Zhisheng Hu et.al.|[2512.16136](http://arxiv.org/abs/2512.16136)|null|
 |**2025-12-11**|**SHIFT: An RDMA Failure-Resilient Layer for Distributed Training**|Shengkai Lin et.al.|[2512.11094](http://arxiv.org/abs/2512.11094)|null|
 |**2025-12-02**|**PystachIO: Efficient Distributed GPU Query Processing with PyTorch over Fast Networks & Fast Storage**|Jigao Luo et.al.|[2512.02862](http://arxiv.org/abs/2512.02862)|null|
