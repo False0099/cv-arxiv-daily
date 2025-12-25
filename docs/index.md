@@ -278,6 +278,21 @@ layout: default
 |**2025-11-24**|**GPU-Initiated Networking for NCCL**|Khaled Hamidouche et.al.|[2511.15076](http://arxiv.org/abs/2511.15076)|null|
 |**2025-12-15**|**LLM Inference Beyond a Single Node: From Bottlenecks to Mitigations with Fast All-Reduce Communication**|Prajwal Singhania et.al.|[2511.09557](http://arxiv.org/abs/2511.09557)|null|
 
+## Disaggregated Memory
+
+| Publish Date | Title | Authors | PDF | Code |
+|:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-20**|**TraCT: Disaggregated LLM Serving with CXL Shared Memory KV Cache at Rack-Scale**|Dongha Yoon et.al.|[2512.18194](http://arxiv.org/abs/2512.18194)|null|
+|**2025-12-18**|**FlexKV: Flexible Index Offloading for Memory-Disaggregated Key-Value Store**|Zhisheng Hu et.al.|[2512.16148](http://arxiv.org/abs/2512.16148)|null|
+|**2025-12-18**|**Lotus: Optimizing Disaggregated Transactions with Disaggregated Locks**|Zhisheng Hu et.al.|[2512.16136](http://arxiv.org/abs/2512.16136)|null|
+|**2025-12-15**|**FlashFuser: Expanding the Scale of Kernel Fusion for Compute-Intensive Operators via Inter-Core Connection**|Ziyu Huang et.al.|[2512.12949](http://arxiv.org/abs/2512.12949)|null|
+|**2025-12-17**|**Near-Zero-Overhead Freshness for Recommendation Systems via Inference-Side Model Updates**|Wenjun Yu et.al.|[2512.12295](http://arxiv.org/abs/2512.12295)|null|
+|**2025-12-11**|**CXL-SpecKV: A Disaggregated FPGA Speculative KV-Cache for Datacenter LLM Serving**|Dong Liu et.al.|[2512.11920](http://arxiv.org/abs/2512.11920)|null|
+|**2025-12-08**|**Modeling the Potential of Message-Free Communication via CXL.mem**|Stepan Vanecek et.al.|[2512.08005](http://arxiv.org/abs/2512.08005)|null|
+|**2025-12-04**|**Context-Aware Mixture-of-Experts Inference on CXL-Enabled GPU-NDP Systems**|Zehao Fan et.al.|[2512.04476](http://arxiv.org/abs/2512.04476)|null|
+|**2025-12-04**|**Offloading to CXL-based Computational Memory**|Suyeon Lee et.al.|[2512.04449](http://arxiv.org/abs/2512.04449)|null|
+|**2025-12-02**|**DOLMA: A Data Object Level Memory Disaggregation Framework for HPC Applications**|Haoyu Zheng et.al.|[2512.02300](http://arxiv.org/abs/2512.02300)|null|
+
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
