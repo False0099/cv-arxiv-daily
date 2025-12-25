@@ -37,7 +37,9 @@ def load_config(config_file:str) -> dict:
                 if idx != len(filters) - 1:
                     ret += OR
             return ret
+        logging.info(config['keywords'])
         for k,v in config['keywords'].items():
+            logging.info(k,v)
             keywords[k] = parse_filters(v['filters'])
         return keywords
     with open(config_file,'r') as f:
