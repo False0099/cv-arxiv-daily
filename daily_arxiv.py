@@ -40,7 +40,11 @@ def load_config(config_file:str) -> dict:
         logging.info(config['keywords'])
         for k,v in config['keywords'].items():
             logging.info(k,v)
-            keywords[k] = parse_filters(v['filters'])
+            try:
+              keywords[k] = parse_filters(v['filters'])
+            except:
+                logging.info("wrong on {},{},{}".format(k,v,config['keywords']))
+                continue
         return keywords
     with open(config_file,'r') as f:
         config = yaml.load(f,Loader=yaml.FullLoader)
