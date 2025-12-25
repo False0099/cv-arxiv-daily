@@ -22,6 +22,8 @@ md_wechat_path: './docs/wechat.md'
 
 # keywords to search
 keywords:
+    "Processing-in-Memory":
+        filters: ["Disaggregated Memory", "Memory Pooling"]
 
     "Processing-in-Memory":
         filters: ["Processing-in-Memory", "PIM", "Near-Memory Computing",
@@ -43,10 +45,6 @@ keywords:
         filters: ["Memory Bandwidth", "Bandwidth Utilization",
                   "HBM Bandwidth", "Off-chip Bandwidth"]
 
-    "Prefetching":
-        filters: ["Prefetcher", "Software Prefetcher",
-                  "Indirect Memory Access", "Loop-Guided Prefetcher"]
-
     "Tiered Memory Management":
         filters: ["Tiered Memory", "Multi-Tier Memory",
                   "Hybrid Memory", "Page Migration"]
@@ -54,10 +52,6 @@ keywords:
     "Learning-based Memory Systems":
         filters: ["Learning-based Memory", "Reinforcement Learning Memory",
                   "Adaptive Memory Management", "ArtMem"]
-
-    "Memory Protection & Security":
-        filters: ["Memory Protection", "Memory Security",
-                  "Integrity Tree", "Multi-granular MAC"]
 
     "Oblivious Memory Systems":
         filters: ["ORAM", "Oblivious RAM",
