@@ -2,13 +2,23 @@
 layout: default
 ---
 
-## Updated on 2025.12.29
+## Updated on 2025.12.31
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Processing-in-Memory
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-29**|**LIMO: Low-Power In-Memory-Annealer and Matrix-Multiplication Primitive for Edge Computing**|Amod Holla et.al.|[2512.23212](http://arxiv.org/abs/2512.23212)|null|
+|**2025-12-29**|**Reservoir Computing inspired Matrix Multiplication-free Language Model**|Takumi Shiratsuchi et.al.|[2512.23145](http://arxiv.org/abs/2512.23145)|null|
+|**2025-12-28**|**Evolution of Buffer Management in Database Systems: From Classical Algorithms to Machine Learning and Disaggregated Memory**|Prudhvi Gadupudi et.al.|[2512.22995](http://arxiv.org/abs/2512.22995)|null|
+|**2025-12-27**|**Protonic Nickelate Device Networks for Spatiotemporal Neuromorphic Computing**|Yue Zhou et.al.|[2512.22722](http://arxiv.org/abs/2512.22722)|null|
+|**2025-12-27**|**Memento-II: Learning by Stateful Reflective Memory**|Jun Wang et.al.|[2512.22716](http://arxiv.org/abs/2512.22716)|null|
+|**2025-12-27**|**Synthesis of signal processing algorithms with constraints on minimal parallelism and memory space**|Sergey Salishev et.al.|[2512.22676](http://arxiv.org/abs/2512.22676)|null|
+|**2025-12-27**|**CoAgent: Collaborative Planning and Consistency Agent for Coherent Video Generation**|Qinglin Zeng et.al.|[2512.22536](http://arxiv.org/abs/2512.22536)|null|
+|**2025-12-27**|**AnalogSAGE: Self-evolving Analog Design Multi-Agents with Stratified Memory and Grounded Experience**|Zining Wang et.al.|[2512.22435](http://arxiv.org/abs/2512.22435)|null|
+|**2025-12-26**|**BLISS: Bandit Layer Importance Sampling Strategy for Efficient Training of Graph Neural Networks**|Omar Alsaqa et.al.|[2512.22388](http://arxiv.org/abs/2512.22388)|null|
+|**2025-12-26**|**Context as a Tool: Context Management for Long-Horizon SWE-Agents**|Shukai Liu et.al.|[2512.22087](http://arxiv.org/abs/2512.22087)|null|
 |**2025-12-24**|**Fast SAM2 with Text-Driven Token Pruning**|Avilasha Mandal et.al.|[2512.21333](http://arxiv.org/abs/2512.21333)|null|
 |**2025-12-24**|**SMART SLM: Structured Memory and Reasoning Transformer, A Small Language Model for Accurate Document Assistance**|Divij Dudeja et.al.|[2512.21280](http://arxiv.org/abs/2512.21280)|null|
 |**2025-12-24**|**RoboSafe: Safeguarding Embodied Agents via Executable Safety Logic**|Le Wang et.al.|[2512.21220](http://arxiv.org/abs/2512.21220)|null|
@@ -92,6 +102,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-26**|**Prefill vs. Decode Bottlenecks: SRAM-Frequency Tradeoffs and the Memory-Bandwidth Ceiling**|Hannah Atmer et.al.|[2512.22066](http://arxiv.org/abs/2512.22066)|null|
+|**2025-12-25**|**GaDE -- GPU-acceleration of time-dependent Dirac Equation for exascale**|Johanne Elise Vembe et.al.|[2512.21697](http://arxiv.org/abs/2512.21697)|null|
 |**2025-12-23**|**FedMPDD: Communication-Efficient Federated Learning with Privacy Preservation Attributes via Projected Directional Derivative**|Mohammadreza Rostami et.al.|[2512.20814](http://arxiv.org/abs/2512.20814)|null|
 |**2025-12-22**|**RAPID-LLM: Resilience-Aware Performance analysis of Infrastructure for Distributed LLM Training and Inference**|George Karfakis et.al.|[2512.19606](http://arxiv.org/abs/2512.19606)|null|
 |**2025-12-20**|**Theodosian: A Deep Dive into Memory-Hierarchy-Centric FHE Acceleration**|Wonseok Choi et.al.|[2512.18345](http://arxiv.org/abs/2512.18345)|null|
@@ -127,6 +139,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-27**|**Rethinking Memory Design in SAM-Based Visual Object Tracking**|Mohamad Alansari et.al.|[2512.22624](http://arxiv.org/abs/2512.22624)|null|
 |**2025-12-23**|**RESPOND: Risk-Enhanced Structured Pattern for LLM-driven Online Node-level Decision-making**|Dan Chen et.al.|[2512.20179](http://arxiv.org/abs/2512.20179)|null|
 |**2025-11-18**|**AISAC: An Integrated multi-agent System for Transparent, Retrieval-Grounded Scientific Assistance**|Chandrachur Bhattacharya et.al.|[2511.14043](http://arxiv.org/abs/2511.14043)|null|
 |**2025-11-11**|**Machine Learning-Guided Memory Optimization for DLRM Inference on Tiered Memory**|Jie Ren et.al.|[2511.08568](http://arxiv.org/abs/2511.08568)|null|
@@ -175,7 +188,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-12-12**|**MVP-ORAM: a Wait-free Concurrent ORAM for Confidential BFT Storage**|Robin Vassantlal et.al.|[2512.12006](http://arxiv.org/abs/2512.12006)|null|
+|**2025-12-27**|**MVP-ORAM: a Wait-free Concurrent ORAM for Confidential BFT Storage**|Robin Vassantlal et.al.|[2512.12006](http://arxiv.org/abs/2512.12006)|null|
 |**2025-11-27**|**Harnessing Sparsification in Federated Learning: A Secure, Efficient, and Differentially Private Realization**|Shuangqing Xu et.al.|[2511.07123](http://arxiv.org/abs/2511.07123)|null|
 |**2025-10-26**|**FAARM: Firmware Attestation and Authentication Framework for Mali GPUs**|Md. Mehedi Hasan et.al.|[2510.22566](http://arxiv.org/abs/2510.22566)|null|
 |**2025-09-23**|**Obelix: Mitigating Side-Channels Through Dynamic Obfuscation**|Jan Wichelmann et.al.|[2509.18909](http://arxiv.org/abs/2509.18909)|null|
@@ -205,6 +218,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-28**|**Evolution of Buffer Management in Database Systems: From Classical Algorithms to Machine Learning and Disaggregated Memory**|Prudhvi Gadupudi et.al.|[2512.22995](http://arxiv.org/abs/2512.22995)|null|
+|**2025-12-22**|**SPUMA: a minimally invasive approach to the GPU porting of OPENFOAM**|Simone Bnà et.al.|[2512.22215](http://arxiv.org/abs/2512.22215)|null|
 |**2025-12-20**|**TraCT: Disaggregated LLM Serving with CXL Shared Memory KV Cache at Rack-Scale**|Dongha Yoon et.al.|[2512.18194](http://arxiv.org/abs/2512.18194)|null|
 |**2025-12-18**|**FlexKV: Flexible Index Offloading for Memory-Disaggregated Key-Value Store**|Zhisheng Hu et.al.|[2512.16148](http://arxiv.org/abs/2512.16148)|null|
 |**2025-12-18**|**Lotus: Optimizing Disaggregated Transactions with Disaggregated Locks**|Zhisheng Hu et.al.|[2512.16136](http://arxiv.org/abs/2512.16136)|null|
@@ -223,6 +238,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-28**|**Evolution of Buffer Management in Database Systems: From Classical Algorithms to Machine Learning and Disaggregated Memory**|Prudhvi Gadupudi et.al.|[2512.22995](http://arxiv.org/abs/2512.22995)|null|
+|**2025-12-26**|**Multipolar fluctuations from localized 4f electrons in CeRh2As2**|Koki Numa et.al.|[2512.21931](http://arxiv.org/abs/2512.21931)|null|
 |**2025-12-17**|**Near-Zero-Overhead Freshness for Recommendation Systems via Inference-Side Model Updates**|Wenjun Yu et.al.|[2512.12295](http://arxiv.org/abs/2512.12295)|null|
 |**2025-12-08**|**Modeling the Potential of Message-Free Communication via CXL.mem**|Stepan Vanecek et.al.|[2512.08005](http://arxiv.org/abs/2512.08005)|null|
 |**2025-12-07**|**METRION: A Framework for Accurate Software Energy Measurement**|Benjamin Weigell et.al.|[2512.06806](http://arxiv.org/abs/2512.06806)|null|
@@ -238,6 +255,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-28**|**TabiBERT: A Large-Scale ModernBERT Foundation Model and Unified Benchmarking Framework for Turkish**|Melikşah Türker et.al.|[2512.23065](http://arxiv.org/abs/2512.23065)|null|
+|**2025-12-20**|**MatKV: Trading Compute for Flash Storage in LLM Inference**|Kun-Woo Shin et.al.|[2512.22195](http://arxiv.org/abs/2512.22195)|null|
+|**2025-12-26**|**Optimizing Resource Allocation for Geographically-Distributed Inference by Large Language Models**|Tingyang Sun et.al.|[2512.21884](http://arxiv.org/abs/2512.21884)|null|
+|**2025-12-26**|**SLIM-Brain: A Data- and Training-Efficient Foundation Model for fMRI Data Analysis**|Mo Wang et.al.|[2512.21881](http://arxiv.org/abs/2512.21881)|null|
 |**2025-12-24**|**Fast SAM2 with Text-Driven Token Pruning**|Avilasha Mandal et.al.|[2512.21333](http://arxiv.org/abs/2512.21333)|null|
 |**2025-12-24**|**SparScene: Efficient Traffic Scene Representation via Sparse Graph Learning for Large-Scale Trajectory Generation**|Xiaoyu Mo et.al.|[2512.21133](http://arxiv.org/abs/2512.21133)|null|
 |**2025-12-24**|**RevFFN: Memory-Efficient Full-Parameter Fine-Tuning of Mixture-of-Experts LLMs with Reversible Blocks**|Ningyuan Liu et.al.|[2512.20920](http://arxiv.org/abs/2512.20920)|null|
@@ -264,6 +285,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-28**|**Evolution of Buffer Management in Database Systems: From Classical Algorithms to Machine Learning and Disaggregated Memory**|Prudhvi Gadupudi et.al.|[2512.22995](http://arxiv.org/abs/2512.22995)|null|
+|**2025-12-28**|**OptiNIC: A Resilient and Tail-Optimal RDMA NIC for Distributed ML Workloads**|Ertza Warraich et.al.|[2512.22743](http://arxiv.org/abs/2512.22743)|null|
 |**2025-12-22**|**UCCL-EP: Portable Expert-Parallel Communication**|Ziming Mao et.al.|[2512.19849](http://arxiv.org/abs/2512.19849)|null|
 |**2025-12-20**|**TraCT: Disaggregated LLM Serving with CXL Shared Memory KV Cache at Rack-Scale**|Dongha Yoon et.al.|[2512.18194](http://arxiv.org/abs/2512.18194)|null|
 |**2025-12-18**|**Lotus: Optimizing Disaggregated Transactions with Disaggregated Locks**|Zhisheng Hu et.al.|[2512.16136](http://arxiv.org/abs/2512.16136)|null|
@@ -282,6 +305,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-28**|**Evolution of Buffer Management in Database Systems: From Classical Algorithms to Machine Learning and Disaggregated Memory**|Prudhvi Gadupudi et.al.|[2512.22995](http://arxiv.org/abs/2512.22995)|null|
+|**2025-12-22**|**SPUMA: a minimally invasive approach to the GPU porting of OPENFOAM**|Simone Bnà et.al.|[2512.22215](http://arxiv.org/abs/2512.22215)|null|
+|**2025-12-26**|**Multipolar fluctuations from localized 4f electrons in CeRh2As2**|Koki Numa et.al.|[2512.21931](http://arxiv.org/abs/2512.21931)|null|
 |**2025-12-20**|**TraCT: Disaggregated LLM Serving with CXL Shared Memory KV Cache at Rack-Scale**|Dongha Yoon et.al.|[2512.18194](http://arxiv.org/abs/2512.18194)|null|
 |**2025-12-18**|**FlexKV: Flexible Index Offloading for Memory-Disaggregated Key-Value Store**|Zhisheng Hu et.al.|[2512.16148](http://arxiv.org/abs/2512.16148)|null|
 |**2025-12-18**|**Lotus: Optimizing Disaggregated Transactions with Disaggregated Locks**|Zhisheng Hu et.al.|[2512.16136](http://arxiv.org/abs/2512.16136)|null|
