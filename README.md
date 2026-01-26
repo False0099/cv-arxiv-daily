@@ -1,4 +1,4 @@
-## Updated on 2026.01.21
+## Updated on 2026.01.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -27,6 +27,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-22**|**Quantum Dimension Reduction of Hidden Markov Models**|Rishi Sundar et.al.|[2601.16126](http://arxiv.org/abs/2601.16126)|null|
+|**2026-01-22**|**The Role of Cognitive Abilities in Requirements Inspection: Comparing UML and Textual Representations**|Giovanna Broccia et.al.|[2601.16009](http://arxiv.org/abs/2601.16009)|null|
+|**2026-01-22**|**CVD grown bilayer MoS2 based artificial optoelectronic synapses for arithmetic computing and image recognition applications**|Umakanta Patra et.al.|[2601.15917](http://arxiv.org/abs/2601.15917)|null|
+|**2026-01-22**|**FlexLLM: Composable HLS Library for Flexible Hybrid LLM Accelerator Design**|Jiahao Zhang et.al.|[2601.15710](http://arxiv.org/abs/2601.15710)|null|
+|**2026-01-22**|**Agentic Uncertainty Quantification**|Jiaxin Zhang et.al.|[2601.15703](http://arxiv.org/abs/2601.15703)|null|
+|**2026-01-22**|**Resting-State Functional Connectivity Correlates of Emotional Memory Control under Cognitive load in Subclinical Anxiety**|Shruti Kinger et.al.|[2601.15689](http://arxiv.org/abs/2601.15689)|null|
+|**2026-01-22**|**Event-VStream: Event-Driven Real-Time Understanding for Long Video Streams**|Zhenghui Guo et.al.|[2601.15655](http://arxiv.org/abs/2601.15655)|null|
+|**2026-01-21**|**Convolutional LSTM Surrogate for Mesoscale Hydrocode Simulations of Granular Wave Propagation**|Kathleen Winona Vian Martinus et.al.|[2601.15497](http://arxiv.org/abs/2601.15497)|null|
+|**2026-01-21**|**Bangla Music Genre Classification Using Bidirectional LSTMS**|Muntakimur Rahaman et.al.|[2601.15083](http://arxiv.org/abs/2601.15083)|null|
+|**2026-01-21**|**Energy-efficient time series processing in real-time with fluidic iontronic memristor circuits**|T. M. Kamsma et.al.|[2601.14986](http://arxiv.org/abs/2601.14986)|null|
 |**2026-01-16**|**Temporal Complexity and Self-Organization in an Exponential Dense Associative Memory Model**|Marco Cafiso et.al.|[2601.11478](http://arxiv.org/abs/2601.11478)|null|
 |**2026-01-16**|**Context-Aware Semantic Segmentation via Stage-Wise Attention**|Antoine Carreaud et.al.|[2601.11310](http://arxiv.org/abs/2601.11310)|null|
 |**2026-01-16**|**Multiscaling in the Rough Bergomi Model: A Tale of Tails**|Giuseppe Brandi et.al.|[2601.11305](http://arxiv.org/abs/2601.11305)|null|
@@ -108,7 +118,7 @@
 |**2025-12-16**|**Towards Nepali-language LLMs: Efficient GPT training with a Nepali BPE tokenizer**|Adarsha Shrestha et.al.|[2512.14585](http://arxiv.org/abs/2512.14585)|null|
 |**2025-12-16**|**VersatileFFN: Achieving Parameter Efficiency in LLMs via Adaptive Wide-and-Deep Reuse**|Ying Nie et.al.|[2512.14531](http://arxiv.org/abs/2512.14531)|null|
 
-<p align=right>(<a href=#updated-on-20260121>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260126>back to top</a>)</p>
 
 ## Hybrid PIM Architectures
 
@@ -125,7 +135,7 @@
 |**2024-04-06**|**Efficient Sparse Processing-in-Memory Architecture (ESPIM) for Machine Learning Inference**|Mingxuan He et.al.|[2404.04708](http://arxiv.org/abs/2404.04708)|null|
 |**2023-10-27**|**Block-Wise Mixed-Precision Quantization: Enabling High Efficiency for Practical ReRAM-based DNN Accelerators**|Xueying Wu et.al.|[2310.12182](http://arxiv.org/abs/2310.12182)|null|
 
-<p align=right>(<a href=#updated-on-20260121>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260126>back to top</a>)</p>
 
 ## Memory-Centric Architectures
 
@@ -143,12 +153,15 @@
 |**2024-05-22**|**eXmY: A Data Type and Technique for Arbitrary Bit Precision Quantization**|Aditya Agrawal et.al.|[2405.13938](http://arxiv.org/abs/2405.13938)|null|
 |**2024-04-17**|**Functionality Locality, Mixture & Control = Logic = Memory**|Xiangjun Peng et.al.|[2404.11721](http://arxiv.org/abs/2404.11721)|null|
 
-<p align=right>(<a href=#updated-on-20260121>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260126>back to top</a>)</p>
 
 ## Cache Compression
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-13**|**On the Limits of Learned Importance Scoring for KV Cache Compression**|Brady Steele et.al.|[2601.14279](http://arxiv.org/abs/2601.14279)|null|
+|**2026-01-20**|**LLMOrbit: A Circular Taxonomy of Large Language Models -From Scaling Walls to Agentic AI Systems**|Badri N. Patro et.al.|[2601.14053](http://arxiv.org/abs/2601.14053)|null|
+|**2026-01-20**|**HeteroCache: A Dynamic Retrieval Approach to Heterogeneous KV Cache Compression for Long-Context LLM Inference**|Zhiyuan Shi et.al.|[2601.13684](http://arxiv.org/abs/2601.13684)|null|
 |**2026-01-12**|**KVzap: Fast, Adaptive, and Faithful KV Cache Pruning**|Simon Jegou et.al.|[2601.07891](http://arxiv.org/abs/2601.07891)|null|
 |**2026-01-08**|**GPU-Accelerated INT8 Quantization for KV Cache Compression in Large Language Models**|Maanas Taneja et.al.|[2601.04719](http://arxiv.org/abs/2601.04719)|null|
 |**2026-01-06**|**Joint Encoding of KV-Cache Blocks for Scalable LLM Serving**|Joseph Kampeas et.al.|[2601.03067](http://arxiv.org/abs/2601.03067)|null|
@@ -166,12 +179,13 @@
 |**2025-11-27**|**Statistical Independence Aware Caching for LLM Workflows**|Yihan Dai et.al.|[2511.22118](http://arxiv.org/abs/2511.22118)|null|
 |**2025-11-24**|**SWAN: Sparse Winnowed Attention for Reduced Inference Memory via Decompression-Free KV-Cache Compression**|Santhosh G S et.al.|[2511.18936](http://arxiv.org/abs/2511.18936)|null|
 
-<p align=right>(<a href=#updated-on-20260121>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260126>back to top</a>)</p>
 
 ## Memory Bandwidth Optimization
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-18**|**CD-PIM: A High-Bandwidth and Compute-Efficient LPDDR5-Based PIM for Low-Batch LLM Acceleration on Edge-Device**|Ye Lin et.al.|[2601.12298](http://arxiv.org/abs/2601.12298)|null|
 |**2026-01-15**|**A Compute and Communication Runtime Model for Loihi 2**|Jonathan Timcheck et.al.|[2601.10035](http://arxiv.org/abs/2601.10035)|null|
 |**2026-01-14**|**Relational Hoare Logic for High-Level Synthesis of Hardware Accelerators**|Izumi Tanaka et.al.|[2601.09217](http://arxiv.org/abs/2601.09217)|null|
 |**2026-01-13**|**Shifting the Sweet Spot: High-Performance Matrix-Free Method for High-Order Elasticity**|Dali Chang et.al.|[2601.08374](http://arxiv.org/abs/2601.08374)|null|
@@ -201,7 +215,7 @@
 |**2025-12-01**|**IVE: An Accelerator for Single-Server Private Information Retrieval Using Versatile Processing Elements**|Sangpyo Kim et.al.|[2512.01574](http://arxiv.org/abs/2512.01574)|null|
 |**2025-12-01**|**Accelerating Large-Scale Reasoning Model Inference with Sparse Self-Speculative Decoding**|Yilong Zhao et.al.|[2512.01278](http://arxiv.org/abs/2512.01278)|null|
 
-<p align=right>(<a href=#updated-on-20260121>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260126>back to top</a>)</p>
 
 ## Prefetching
 
@@ -218,12 +232,13 @@
 |**2025-11-30**|**SpeContext: Enabling Efficient Long-context Reasoning with Speculative Context Sparsity in LLMs**|Jiaming Xu et.al.|[2512.00722](http://arxiv.org/abs/2512.00722)|null|
 |**2025-11-25**|**Pickle Prefetcher: Programmable and Scalable Last-Level Cache Prefetcher**|Hoa Nguyen et.al.|[2511.19973](http://arxiv.org/abs/2511.19973)|null|
 
-<p align=right>(<a href=#updated-on-20260121>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260126>back to top</a>)</p>
 
 ## Tiered Memory Management
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-21**|**QMC: Efficient SLM Edge Inference via Outlier-Aware Quantization and Emergent Memories Co-Design**|Nilesh Prasad Pandey et.al.|[2601.14549](http://arxiv.org/abs/2601.14549)|null|
 |**2026-01-15**|**FaTRQ: Tiered Residual Quantization for LLM Vector Search in Far-Memory-Aware ANNS Systems**|Tianqi Zhang et.al.|[2601.09985](http://arxiv.org/abs/2601.09985)|null|
 |**2026-01-13**|**Project Synapse: A Hierarchical Multi-Agent Framework with Hybrid Memory for Autonomous Resolution of Last-Mile Delivery Disruptions**|Arin Gopalan Yadav et.al.|[2601.08156](http://arxiv.org/abs/2601.08156)|null|
 |**2025-12-27**|**Rethinking Memory Design in SAM-Based Visual Object Tracking**|Mohamad Alansari et.al.|[2512.22624](http://arxiv.org/abs/2512.22624)|null|
@@ -239,7 +254,7 @@
 |**2025-10-24**|**Prefetching in Deep Memory Hierarchies with NVRAM as Main Memory**|Manel Lurbe et.al.|[2509.17388](http://arxiv.org/abs/2509.17388)|null|
 |**2025-07-02**|**mGRADE: Minimal Recurrent Gating Meets Delay Convolutions for Lightweight Sequence Modeling**|Tristan Torchet et.al.|[2507.01829](http://arxiv.org/abs/2507.01829)|null|
 
-<p align=right>(<a href=#updated-on-20260121>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260126>back to top</a>)</p>
 
 ## Learning-based Memory Systems
 
@@ -258,7 +273,7 @@
 |**2024-06-12**|**ProTrain: Efficient LLM Training via Memory-Aware Techniques**|Hanmei Yang et.al.|[2406.08334](http://arxiv.org/abs/2406.08334)|null|
 |**2022-06-22**|**A Feature Memory Rearrangement Network for Visual Inspection of Textured Surface Defects Toward Edge Intelligent Manufacturing**|Haiming Yao et.al.|[2206.10830](http://arxiv.org/abs/2206.10830)|null|
 
-<p align=right>(<a href=#updated-on-20260121>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260126>back to top</a>)</p>
 
 ## Memory Protection & Security
 
@@ -276,7 +291,7 @@
 |**2025-09-26**|**From Roots to Rewards: Dynamic Tree Reasoning with Reinforcement Learning**|Ahmed Bahloul et.al.|[2507.13142](http://arxiv.org/abs/2507.13142)|null|
 |**2025-07-07**|**Enabling Security on the Edge: A CHERI Compartmentalized Network Stack**|Donato Ferraro et.al.|[2507.04818](http://arxiv.org/abs/2507.04818)|null|
 
-<p align=right>(<a href=#updated-on-20260121>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260126>back to top</a>)</p>
 
 ## Oblivious Memory Systems
 
@@ -295,7 +310,7 @@
 |**2025-12-11**|**SNPeek: Side-Channel Analysis for Privacy Applications on Confidential VMs**|Ruiyi Zhang et.al.|[2506.15924](http://arxiv.org/abs/2506.15924)|null|
 |**2025-06-08**|**NanoZone: Scalable, Efficient, and Secure Memory Protection for Arm CCA**|Shiqi Liu et.al.|[2506.07034](http://arxiv.org/abs/2506.07034)|null|
 
-<p align=right>(<a href=#updated-on-20260121>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260126>back to top</a>)</p>
 
 ## Vector & ISA Extensions
 
@@ -313,7 +328,7 @@
 |**2025-01-28**|**Fine-Tuned Language Models as Space Systems Controllers**|Enrico M. Zucchelli et.al.|[2501.16588](http://arxiv.org/abs/2501.16588)|null|
 |**2025-01-17**|**Multi-Dimensional Vector ISA Extension for Mobile In-Cache Computing**|Alireza Khadem et.al.|[2501.09902](http://arxiv.org/abs/2501.09902)|null|
 
-<p align=right>(<a href=#updated-on-20260121>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260126>back to top</a>)</p>
 
 ## CXL & Disaggregated Memory
 
@@ -337,12 +352,13 @@
 |**2025-11-27**|**Beluga: A CXL-Based Memory Architecture for Scalable and Efficient LLM KVCache Management**|Xinjun Yang et.al.|[2511.20172](http://arxiv.org/abs/2511.20172)|null|
 |**2025-11-24**|**Dynamic Expert Quantization for Scalable Mixture-of-Experts Inference**|Kexin Chu et.al.|[2511.15015](http://arxiv.org/abs/2511.15015)|null|
 
-<p align=right>(<a href=#updated-on-20260121>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260126>back to top</a>)</p>
 
 ## NUMA & Heterogeneous Memory
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-21**|**QMC: Efficient SLM Edge Inference via Outlier-Aware Quantization and Emergent Memories Co-Design**|Nilesh Prasad Pandey et.al.|[2601.14549](http://arxiv.org/abs/2601.14549)|null|
 |**2026-01-15**|**Long-term Monitoring of Kernel and Hardware Events to Understand Latency Variance**|Fang Zhou et.al.|[2601.10572](http://arxiv.org/abs/2601.10572)|null|
 |**2025-12-28**|**Evolution of Buffer Management in Database Systems: From Classical Algorithms to Machine Learning and Disaggregated Memory**|Prudhvi Gadupudi et.al.|[2512.22995](http://arxiv.org/abs/2512.22995)|null|
 |**2025-12-26**|**Multipolar fluctuations from localized 4f electrons in CeRh2As2**|Koki Numa et.al.|[2512.21931](http://arxiv.org/abs/2512.21931)|null|
@@ -357,12 +373,21 @@
 |**2025-11-18**|**PolyKAN: Efficient Fused GPU Operators for Polynomial Kolmogorov-Arnold Network Variants**|Mingkun Yu et.al.|[2511.14852](http://arxiv.org/abs/2511.14852)|null|
 |**2025-11-26**|**Mem-PAL: Towards Memory-based Personalized Dialogue Assistants for Long-term User-Agent Interaction**|Zhaopei Huang et.al.|[2511.13410](http://arxiv.org/abs/2511.13410)|null|
 
-<p align=right>(<a href=#updated-on-20260121>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260126>back to top</a>)</p>
 
 ## GPU Memory Systems
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-22**|**A Hierarchical Bayesian Framework for Model-based Prognostics**|Xinyu Jia et.al.|[2601.15942](http://arxiv.org/abs/2601.15942)|null|
+|**2026-01-21**|**Panther: Faster and Cheaper Computations with Randomized Numerical Linear Algebra**|Fahd Seddik et.al.|[2601.15473](http://arxiv.org/abs/2601.15473)|null|
+|**2026-01-21**|**HERMES: KV Cache as Hierarchical Memory for Efficient Streaming Video Understanding**|Haowei Zhang et.al.|[2601.14724](http://arxiv.org/abs/2601.14724)|null|
+|**2026-01-20**|**JAXMg: A multi-GPU linear solver in JAX**|Roeland Wiersema et.al.|[2601.14466](http://arxiv.org/abs/2601.14466)|null|
+|**2026-01-20**|**Multi-Partner Project: COIN-3D -- Collaborative Innovation in 3D VLSI Reliability**|George Rafael Gourdoumanis et.al.|[2601.14347](http://arxiv.org/abs/2601.14347)|null|
+|**2026-01-20**|**Channel Estimation in MIMO Systems Using Flow Matching Models**|Yongqiang Zhang et.al.|[2601.13827](http://arxiv.org/abs/2601.13827)|null|
+|**2026-01-20**|**ParkingTwin: Training-Free Streaming 3D Reconstruction for Parking-Lot Digital Twins**|Xinhao Liu et.al.|[2601.13706](http://arxiv.org/abs/2601.13706)|null|
+|**2026-01-17**|**Enhanced Diagnostic Performance via Large-Resolution Inference Optimization for Pathology Foundation Models**|Mengxuan Hu et.al.|[2601.12150](http://arxiv.org/abs/2601.12150)|null|
+|**2026-01-16**|**Nixie: Efficient, Transparent Temporal Multiplexing for Consumer GPUs**|Yechen Xu et.al.|[2601.11743](http://arxiv.org/abs/2601.11743)|null|
 |**2026-01-16**|**HOSL: Hybrid-Order Split Learning for Memory-Constrained Edge Training**|Aakriti et.al.|[2601.10940](http://arxiv.org/abs/2601.10940)|null|
 |**2026-01-14**|**Self-Supervised Animal Identification for Long Videos**|Xuyang Fang et.al.|[2601.09663](http://arxiv.org/abs/2601.09663)|null|
 |**2026-01-14**|**Small but Mighty: Dynamic Wavelet Expert-Guided Fine-Tuning of Large-Scale Models for Optical Remote Sensing Object Segmentation**|Yanguang Sun et.al.|[2601.09108](http://arxiv.org/abs/2601.09108)|null|
@@ -410,17 +435,19 @@
 |**2025-12-11**|**ESS: An Offload-Centric Latent-Cache Management Architecture for DeepSeek-V3.2-Exp**|Xinhang Chen et.al.|[2512.10576](http://arxiv.org/abs/2512.10576)|null|
 |**2025-12-10**|**WarmServe: Enabling One-for-Many GPU Prewarming for Multi-LLM Serving**|Chiheng Lou et.al.|[2512.09472](http://arxiv.org/abs/2512.09472)|null|
 
-<p align=right>(<a href=#updated-on-20260121>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260126>back to top</a>)</p>
 
 ## RDMA
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-21**|**Specifying and Verifying RDMA Synchronisation (Extended Version)**|Guillaume Ambal et.al.|[2601.14642](http://arxiv.org/abs/2601.14642)|null|
+|**2026-01-21**|**Exploring Performance-Productivity Trade-offs in AMT Runtimes: A Task Bench Study of Itoyori, ItoyoriFBC, HPX, and MPI**|Torben R. Lahnor et.al.|[2601.14608](http://arxiv.org/abs/2601.14608)|null|
 |**2026-01-09**|**Employ SmartNICs' Data Path Accelerators for Ordered Key-Value Stores**|Frederic Schimmelpfennig et.al.|[2601.06231](http://arxiv.org/abs/2601.06231)|null|
 |**2025-12-31**|**Reliable and Resilient Collective Communication Library for LLM Training and Serving**|Wei Wang et.al.|[2512.25059](http://arxiv.org/abs/2512.25059)|null|
 |**2025-12-28**|**Evolution of Buffer Management in Database Systems: From Classical Algorithms to Machine Learning and Disaggregated Memory**|Prudhvi Gadupudi et.al.|[2512.22995](http://arxiv.org/abs/2512.22995)|null|
 |**2025-12-28**|**OptiNIC: A Resilient and Tail-Optimal RDMA NIC for Distributed ML Workloads**|Ertza Warraich et.al.|[2512.22743](http://arxiv.org/abs/2512.22743)|null|
-|**2025-12-22**|**UCCL-EP: Portable Expert-Parallel Communication**|Ziming Mao et.al.|[2512.19849](http://arxiv.org/abs/2512.19849)|null|
+|**2026-01-22**|**UCCL-EP: Portable Expert-Parallel Communication**|Ziming Mao et.al.|[2512.19849](http://arxiv.org/abs/2512.19849)|null|
 |**2025-12-20**|**TraCT: Disaggregated LLM Serving with CXL Shared Memory KV Cache at Rack-Scale**|Dongha Yoon et.al.|[2512.18194](http://arxiv.org/abs/2512.18194)|null|
 |**2025-12-18**|**Lotus: Optimizing Disaggregated Transactions with Disaggregated Locks**|Zhisheng Hu et.al.|[2512.16136](http://arxiv.org/abs/2512.16136)|null|
 |**2025-12-11**|**SHIFT: An RDMA Failure-Resilient Layer for Distributed Training**|Shengkai Lin et.al.|[2512.11094](http://arxiv.org/abs/2512.11094)|null|
@@ -434,7 +461,7 @@
 |**2025-11-24**|**GPU-Initiated Networking for NCCL**|Khaled Hamidouche et.al.|[2511.15076](http://arxiv.org/abs/2511.15076)|null|
 |**2025-12-15**|**LLM Inference Beyond a Single Node: From Bottlenecks to Mitigations with Fast All-Reduce Communication**|Prajwal Singhania et.al.|[2511.09557](http://arxiv.org/abs/2511.09557)|null|
 
-<p align=right>(<a href=#updated-on-20260121>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260126>back to top</a>)</p>
 
 ## Disaggregated Memory
 
@@ -457,7 +484,7 @@
 |**2025-12-04**|**Offloading to CXL-based Computational Memory**|Suyeon Lee et.al.|[2512.04449](http://arxiv.org/abs/2512.04449)|null|
 |**2025-12-02**|**DOLMA: A Data Object Level Memory Disaggregation Framework for HPC Applications**|Haoyu Zheng et.al.|[2512.02300](http://arxiv.org/abs/2512.02300)|null|
 
-<p align=right>(<a href=#updated-on-20260121>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260126>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
