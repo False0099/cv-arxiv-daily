@@ -2,13 +2,23 @@
 layout: default
 ---
 
-## Updated on 2026.01.26
+## Updated on 2026.01.31
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Processing-in-Memory
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-29**|**Do VLMs Perceive or Recall? Probing Visual Perception vs. Memory with Classic Visual Illusions**|Xiaoxiao Sun et.al.|[2601.22150](http://arxiv.org/abs/2601.22150)|null|
+|**2026-01-29**|**VTC-R1: Vision-Text Compression for Efficient Long-Context Reasoning**|Yibo Wang et.al.|[2601.22069](http://arxiv.org/abs/2601.22069)|null|
+|**2026-01-29**|**Rate-Distortion Optimization for Transformer Inference**|Anderson de Andrade et.al.|[2601.22002](http://arxiv.org/abs/2601.22002)|null|
+|**2026-01-29**|**SONIC: Segmented Optimized Nexus for Information Compression in Key-Value Caching**|Hong Chen et.al.|[2601.21927](http://arxiv.org/abs/2601.21927)|null|
+|**2026-01-29**|**Enhancing Conversational Agents via Task-Oriented Adversarial Memory Adaptation**|Yimin Deng et.al.|[2601.21797](http://arxiv.org/abs/2601.21797)|null|
+|**2026-01-29**|**Fewest-Switches Surface Hopping with Combined Deep Learning Potential and Long Short-Term Memory Network Propagator for Simulating Realistic Photochemical Processes**|Zhenxing Zhu et.al.|[2601.21703](http://arxiv.org/abs/2601.21703)|null|
+|**2026-01-29**|**bigMICE: Multiple Imputation of Big Data**|Hugo Morvan et.al.|[2601.21613](http://arxiv.org/abs/2601.21613)|null|
+|**2026-01-29**|**Tell Me What I Missed: Tell Me What I Missed: Interacting with GPT during Recalling of One-Time Witnessed Events**|Suifang Zhou et.al.|[2601.21460](http://arxiv.org/abs/2601.21460)|null|
+|**2026-01-29**|**DA-SPS: A Dual-stage Network based on Singular Spectrum Analysis, Patching-strategy and Spearman-correlation for Multivariate Time-series Prediction**|Tianhao Zhang et.al.|[2601.21381](http://arxiv.org/abs/2601.21381)|null|
+|**2026-01-28**|**Two-shot learning of multiple strange attractors**|Daniel Köglmayr et.al.|[2601.21117](http://arxiv.org/abs/2601.21117)|null|
 |**2026-01-22**|**Quantum Dimension Reduction of Hidden Markov Models**|Rishi Sundar et.al.|[2601.16126](http://arxiv.org/abs/2601.16126)|null|
 |**2026-01-22**|**The Role of Cognitive Abilities in Requirements Inspection: Comparing UML and Textual Representations**|Giovanna Broccia et.al.|[2601.16009](http://arxiv.org/abs/2601.16009)|null|
 |**2026-01-22**|**CVD grown bilayer MoS2 based artificial optoelectronic synapses for arithmetic computing and image recognition applications**|Umakanta Patra et.al.|[2601.15917](http://arxiv.org/abs/2601.15917)|null|
@@ -104,6 +114,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-12**|**RAPID-Graph: Recursive All-Pairs Shortest Paths Using Processing-in-Memory for Dynamic Programming on Graphs**|Yanru Chen et.al.|[2601.19907](http://arxiv.org/abs/2601.19907)|null|
 |**2025-11-10**|**ASTER: Attention-based Spiking Transformer Engine for Event-driven Reasoning**|Tamoghno Das et.al.|[2511.06770](http://arxiv.org/abs/2511.06770)|null|
 |**2025-10-22**|**Res-DPU: Resource-shared Digital Processing-in-memory Unit for Edge-AI Workloads**|Mukul Lokhande et.al.|[2510.19260](http://arxiv.org/abs/2510.19260)|null|
 |**2025-09-30**|**No One-Size-Fits-All: A Workload-Driven Characterization of Bit-Parallel vs. Bit-Serial Data Layouts for Processing-using-Memory**|Jingyao Zhang et.al.|[2509.22980](http://arxiv.org/abs/2509.22980)|null|
@@ -135,6 +146,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-29**|**SONIC: Segmented Optimized Nexus for Information Compression in Key-Value Caching**|Hong Chen et.al.|[2601.21927](http://arxiv.org/abs/2601.21927)|null|
+|**2026-01-29**|**Why Attention Patterns Exist: A Unifying Temporal Perspective Analysis**|Qingyue Yang et.al.|[2601.21709](http://arxiv.org/abs/2601.21709)|null|
+|**2026-01-29**|**Don't be so Stief! Learning KV Cache low-rank approximation over the Stiefel manifold**|Luca Benfenati et.al.|[2601.21686](http://arxiv.org/abs/2601.21686)|null|
+|**2026-01-28**|**Efficient Autoregressive Video Diffusion with Dummy Head**|Hang Guo et.al.|[2601.20499](http://arxiv.org/abs/2601.20499)|null|
+|**2026-01-27**|**Explicit Multi-head Attention for Inter-head Interaction in Large Language Models**|Runyu Peng et.al.|[2601.19611](http://arxiv.org/abs/2601.19611)|null|
+|**2026-01-26**|**Exploring Fine-Tuning for In-Context Retrieval and Efficient KV-Caching in Long-Context Language Models**|Francesco Maria Molfese et.al.|[2601.18527](http://arxiv.org/abs/2601.18527)|null|
 |**2026-01-13**|**On the Limits of Learned Importance Scoring for KV Cache Compression**|Brady Steele et.al.|[2601.14279](http://arxiv.org/abs/2601.14279)|null|
 |**2026-01-20**|**LLMOrbit: A Circular Taxonomy of Large Language Models -From Scaling Walls to Agentic AI Systems**|Badri N. Patro et.al.|[2601.14053](http://arxiv.org/abs/2601.14053)|null|
 |**2026-01-20**|**HeteroCache: A Dynamic Retrieval Approach to Heterogeneous KV Cache Compression for Long-Context LLM Inference**|Zhiyuan Shi et.al.|[2601.13684](http://arxiv.org/abs/2601.13684)|null|
@@ -159,9 +176,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-29**|**Heterogeneous Computing: The Key to Powering the Future of AI Agent Inference**|Yiren Zhao et.al.|[2601.22001](http://arxiv.org/abs/2601.22001)|null|
+|**2026-01-27**|**How Much Progress Has There Been in NVIDIA Datacenter GPUs?**|Emanuele Del Sozzo et.al.|[2601.20115](http://arxiv.org/abs/2601.20115)|null|
+|**2026-01-25**|**Beyond FINDCHIRP: Breaking the memory wall and optimal FFTs for Gravitational-Wave Matched-Filter Searches with Ratio-Filter Dechirping**|Alexander H. Nitz et.al.|[2601.18835](http://arxiv.org/abs/2601.18835)|null|
+|**2026-01-26**|**COMETS: Coordinated Multi-Destination Video Transmission with In-Network Rate Adaptation**|Yulong Zhang et.al.|[2601.18670](http://arxiv.org/abs/2601.18670)|null|
+|**2026-01-24**|**Conduit: Programmer-Transparent Near-Data Processing Using Multiple Compute-Capable Resources in Solid State Drives**|Rakesh Nadig et.al.|[2601.17633](http://arxiv.org/abs/2601.17633)|null|
+|**2026-01-24**|**Athena: Synergizing Data Prefetching and Off-Chip Prediction via Online Reinforcement Learning**|Rahul Bera et.al.|[2601.17615](http://arxiv.org/abs/2601.17615)|null|
 |**2026-01-18**|**CD-PIM: A High-Bandwidth and Compute-Efficient LPDDR5-Based PIM for Low-Batch LLM Acceleration on Edge-Device**|Ye Lin et.al.|[2601.12298](http://arxiv.org/abs/2601.12298)|null|
 |**2026-01-15**|**A Compute and Communication Runtime Model for Loihi 2**|Jonathan Timcheck et.al.|[2601.10035](http://arxiv.org/abs/2601.10035)|null|
-|**2026-01-14**|**Relational Hoare Logic for High-Level Synthesis of Hardware Accelerators**|Izumi Tanaka et.al.|[2601.09217](http://arxiv.org/abs/2601.09217)|null|
+|**2026-01-23**|**Relational Hoare Logic for High-Level Synthesis of Hardware Accelerators**|Izumi Tanaka et.al.|[2601.09217](http://arxiv.org/abs/2601.09217)|null|
 |**2026-01-13**|**Shifting the Sweet Spot: High-Performance Matrix-Free Method for High-Order Elasticity**|Dali Chang et.al.|[2601.08374](http://arxiv.org/abs/2601.08374)|null|
 |**2026-01-15**|**GPU-Accelerated ANNS: Quantized for Speed, Built for Change**|Hunter McCoy et.al.|[2601.07048](http://arxiv.org/abs/2601.07048)|null|
 |**2026-01-11**|**Learning-Augmented Performance Model for Tensor Product Factorization in High-Order FEM**|Xuanzhengbo Ren et.al.|[2601.06886](http://arxiv.org/abs/2601.06886)|null|
@@ -208,6 +231,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-29**|**ShardMemo: Masked MoE Routing for Sharded Agentic LLM Memory**|Yang Zhao et.al.|[2601.21545](http://arxiv.org/abs/2601.21545)|null|
+|**2026-01-26**|**MemWeaver: Weaving Hybrid Memories for Traceable Long-Horizon Agentic Reasoning**|Juexiang Ye et.al.|[2601.18204](http://arxiv.org/abs/2601.18204)|null|
 |**2026-01-21**|**QMC: Efficient SLM Edge Inference via Outlier-Aware Quantization and Emergent Memories Co-Design**|Nilesh Prasad Pandey et.al.|[2601.14549](http://arxiv.org/abs/2601.14549)|null|
 |**2026-01-15**|**FaTRQ: Tiered Residual Quantization for LLM Vector Search in Far-Memory-Aware ANNS Systems**|Tianqi Zhang et.al.|[2601.09985](http://arxiv.org/abs/2601.09985)|null|
 |**2026-01-13**|**Project Synapse: A Hierarchical Multi-Agent Framework with Hybrid Memory for Autonomous Resolution of Last-Mile Delivery Disruptions**|Arin Gopalan Yadav et.al.|[2601.08156](http://arxiv.org/abs/2601.08156)|null|
@@ -228,7 +253,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-01-13**|**AtomMem : Learnable Dynamic Agentic Memory with Atomic Memory Operation**|Yupeng Huo et.al.|[2601.08323](http://arxiv.org/abs/2601.08323)|null|
+|**2026-01-27**|**AtomMem : Learnable Dynamic Agentic Memory with Atomic Memory Operation**|Yupeng Huo et.al.|[2601.08323](http://arxiv.org/abs/2601.08323)|null|
 |**2025-12-23**|**Predictive-LoRA: A Proactive and Fragmentation-Aware Serverless Inference System for LLMs**|Yinan Ni et.al.|[2512.20210](http://arxiv.org/abs/2512.20210)|null|
 |**2025-12-16**|**VideoMem: Enhancing Ultra-Long Video Understanding via Adaptive Memory Management**|Hongbo Jin et.al.|[2512.04540](http://arxiv.org/abs/2512.04540)|null|
 |**2025-11-30**|**SpeContext: Enabling Efficient Long-context Reasoning with Speculative Context Sparsity in LLMs**|Jiaming Xu et.al.|[2512.00722](http://arxiv.org/abs/2512.00722)|null|
@@ -316,6 +341,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-28**|**Efficient Autoregressive Video Diffusion with Dummy Head**|Hang Guo et.al.|[2601.20499](http://arxiv.org/abs/2601.20499)|null|
+|**2025-12-12**|**CHIME: Chiplet-based Heterogeneous Near-Memory Acceleration for Edge Multimodal LLM Inference**|Yanru Chen et.al.|[2601.19908](http://arxiv.org/abs/2601.19908)|null|
+|**2026-01-24**|**Clustering-driven Memory Compression for On-device Large Language Models**|Ondrej Bohdal et.al.|[2601.17443](http://arxiv.org/abs/2601.17443)|null|
 |**2026-01-21**|**QMC: Efficient SLM Edge Inference via Outlier-Aware Quantization and Emergent Memories Co-Design**|Nilesh Prasad Pandey et.al.|[2601.14549](http://arxiv.org/abs/2601.14549)|null|
 |**2026-01-15**|**Long-term Monitoring of Kernel and Hardware Events to Understand Latency Variance**|Fang Zhou et.al.|[2601.10572](http://arxiv.org/abs/2601.10572)|null|
 |**2025-12-28**|**Evolution of Buffer Management in Database Systems: From Classical Algorithms to Machine Learning and Disaggregated Memory**|Prudhvi Gadupudi et.al.|[2512.22995](http://arxiv.org/abs/2512.22995)|null|
@@ -335,6 +363,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-29**|**Don't be so Stief! Learning KV Cache low-rank approximation over the Stiefel manifold**|Luca Benfenati et.al.|[2601.21686](http://arxiv.org/abs/2601.21686)|null|
+|**2026-01-29**|**ScaleSim: Serving Large-Scale Multi-Agent Simulation with Invocation Distance-Based Memory Management**|Zaifeng Pan et.al.|[2601.21473](http://arxiv.org/abs/2601.21473)|null|
+|**2026-01-29**|**Drive-KD: Multi-Teacher Distillation for VLMs in Autonomous Driving**|Weitong Lian et.al.|[2601.21288](http://arxiv.org/abs/2601.21288)|null|
+|**2026-01-28**|**SuperInfer: SLO-Aware Rotary Scheduling and Memory Management for LLM Inference on Superchips**|Jiahuan Yu et.al.|[2601.20309](http://arxiv.org/abs/2601.20309)|null|
+|**2026-01-29**|**Physics-Informed Transformer operator for the prediction of three-dimensional turbulence**|Zhihong Guo et.al.|[2601.19351](http://arxiv.org/abs/2601.19351)|null|
+|**2026-01-25**|**ViTCoP: Accelerating Large Vision-Language Models via Visual and Textual Semantic Collaborative Pruning**|Wen Luo et.al.|[2601.17818](http://arxiv.org/abs/2601.17818)|null|
+|**2026-01-28**|**S $^3$ -Attention:Attention-Aligned Endogenous Retrieval for Memory-Bounded Long-Context Inference**|Qingsen Ma et.al.|[2601.17702](http://arxiv.org/abs/2601.17702)|null|
+|**2026-01-28**|**Communication-Avoiding Linear Algebraic Kernel K-Means on GPUs**|Julian Bellavita et.al.|[2601.17136](http://arxiv.org/abs/2601.17136)|null|
 |**2026-01-22**|**A Hierarchical Bayesian Framework for Model-based Prognostics**|Xinyu Jia et.al.|[2601.15942](http://arxiv.org/abs/2601.15942)|null|
 |**2026-01-21**|**Panther: Faster and Cheaper Computations with Randomized Numerical Linear Algebra**|Fahd Seddik et.al.|[2601.15473](http://arxiv.org/abs/2601.15473)|null|
 |**2026-01-21**|**HERMES: KV Cache as Hierarchical Memory for Efficient Streaming Video Understanding**|Haowei Zhang et.al.|[2601.14724](http://arxiv.org/abs/2601.14724)|null|
@@ -395,7 +431,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-01-21**|**Specifying and Verifying RDMA Synchronisation (Extended Version)**|Guillaume Ambal et.al.|[2601.14642](http://arxiv.org/abs/2601.14642)|null|
+|**2026-01-28**|**OnePiece: A Large-Scale Distributed Inference System with RDMA for Complex AI-Generated Content (AIGC) Workflows**|June Chen et.al.|[2601.20655](http://arxiv.org/abs/2601.20655)|null|
+|**2026-01-26**|**Validation of a Software-Defined 100-Gb/s RDMA Streaming Architecture for Ultrafast Optoacoustic and Ultrasound Imaging**|Federico Villani et.al.|[2601.18280](http://arxiv.org/abs/2601.18280)|null|
+|**2026-01-27**|**Specifying and Verifying RDMA Synchronisation (Extended Version)**|Guillaume Ambal et.al.|[2601.14642](http://arxiv.org/abs/2601.14642)|null|
 |**2026-01-21**|**Exploring Performance-Productivity Trade-offs in AMT Runtimes: A Task Bench Study of Itoyori, ItoyoriFBC, HPX, and MPI**|Torben R. Lahnor et.al.|[2601.14608](http://arxiv.org/abs/2601.14608)|null|
 |**2026-01-09**|**Employ SmartNICs' Data Path Accelerators for Ordered Key-Value Stores**|Frederic Schimmelpfennig et.al.|[2601.06231](http://arxiv.org/abs/2601.06231)|null|
 |**2025-12-31**|**Reliable and Resilient Collective Communication Library for LLM Training and Serving**|Wei Wang et.al.|[2512.25059](http://arxiv.org/abs/2512.25059)|null|
