@@ -2,13 +2,23 @@
 layout: default
 ---
 
-## Updated on 2026.02.02
+## Updated on 2026.02.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Processing-in-Memory
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-04**|**Safe-NEureka: a Hybrid Modular Redundant DNN Accelerator for On-board Satellite AI Processing**|Riccardo Tedeschi et.al.|[2602.04803](http://arxiv.org/abs/2602.04803)|null|
+|**2026-02-04**|**Legendre Memory Unit with A Multi-Slice Compensation Model for Short-Term Wind Speed Forecasting Based on Wind Farm Cluster Data**|Mumin Zhang et.al.|[2602.04782](http://arxiv.org/abs/2602.04782)|null|
+|**2026-02-04**|**Evolutionary Mapping of Neural Networks to Spatial Accelerators**|Alessandro Pierro et.al.|[2602.04717](http://arxiv.org/abs/2602.04717)|null|
+|**2026-02-04**|**A TEE-based Approach for Preserving Data Secrecy in Process Mining with Decentralized Sources**|Davide Basile et.al.|[2602.04697](http://arxiv.org/abs/2602.04697)|null|
+|**2026-02-04**|**Causal explanations of outliers in systems with lagged time-dependencies**|Philipp Alexander Schwarz et.al.|[2602.04667](http://arxiv.org/abs/2602.04667)|null|
+|**2026-02-04**|**Scalable platform enabling reservoir computing with nanoporous oxide memristors for image recognition and time series prediction**|Joshua Donald et.al.|[2602.04619](http://arxiv.org/abs/2602.04619)|null|
+|**2026-02-04**|**Act, Sense, Act: Learning Non-Markovian Active Perception Strategies from Large-Scale Egocentric Human Data**|Jialiang Li et.al.|[2602.04600](http://arxiv.org/abs/2602.04600)|null|
+|**2026-02-04**|**Finding Structure in Continual Learning**|Pourya Shamsolmoali et.al.|[2602.04555](http://arxiv.org/abs/2602.04555)|null|
+|**2026-02-04**|**Microscopic Origin of Polarization-Controlled Magnetization Switching in FePt/BaTiO $_3$**|Qurat-ul-ain et.al.|[2602.04500](http://arxiv.org/abs/2602.04500)|null|
+|**2026-02-04**|**Optimal Control Design Guided by Adam Algorithm and LSTM-Predicted Open Quantum System Dynamics**|JunDong Zhong et.al.|[2602.04480](http://arxiv.org/abs/2602.04480)|null|
 |**2026-01-29**|**Do VLMs Perceive or Recall? Probing Visual Perception vs. Memory with Classic Visual Illusions**|Xiaoxiao Sun et.al.|[2601.22150](http://arxiv.org/abs/2601.22150)|null|
 |**2026-01-29**|**VTC-R1: Vision-Text Compression for Efficient Long-Context Reasoning**|Yibo Wang et.al.|[2601.22069](http://arxiv.org/abs/2601.22069)|null|
 |**2026-01-29**|**Rate-Distortion Optimization for Transformer Inference**|Anderson de Andrade et.al.|[2601.22002](http://arxiv.org/abs/2601.22002)|null|
@@ -146,6 +156,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-04**|**Harmonia: Algorithm-Hardware Co-Design for Memory- and Compute-Efficient BFP-based LLM Inference**|Xinyu Wang et.al.|[2602.04595](http://arxiv.org/abs/2602.04595)|null|
+|**2026-02-04**|**RAP: KV-Cache Compression via RoPE-Aligned Pruning**|Jihao Xin et.al.|[2602.02599](http://arxiv.org/abs/2602.02599)|null|
+|**2026-02-02**|**More Than a Quick Glance: Overcoming the Greedy Bias in KV-Cache Compression**|Aryan Sood et.al.|[2602.02199](http://arxiv.org/abs/2602.02199)|null|
+|**2026-02-02**|**Fast Autoregressive Video Diffusion and World Models with Temporal Cache Compression and Sparse Attention**|Dvir Samuel et.al.|[2602.01801](http://arxiv.org/abs/2602.01801)|null|
 |**2026-01-29**|**SONIC: Segmented Optimized Nexus for Information Compression in Key-Value Caching**|Hong Chen et.al.|[2601.21927](http://arxiv.org/abs/2601.21927)|null|
 |**2026-01-29**|**Why Attention Patterns Exist: A Unifying Temporal Perspective Analysis**|Qingyue Yang et.al.|[2601.21709](http://arxiv.org/abs/2601.21709)|null|
 |**2026-01-29**|**Don't be so Stief! Learning KV Cache low-rank approximation over the Stiefel manifold**|Luca Benfenati et.al.|[2601.21686](http://arxiv.org/abs/2601.21686)|null|
@@ -176,8 +190,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-04**|**BPDQ: Bit-Plane Decomposition Quantization on a Variable Grid for Large Language Models**|Junyu Chen et.al.|[2602.04163](http://arxiv.org/abs/2602.04163)|null|
+|**2026-02-03**|**FASA: Frequency-aware Sparse Attention**|Yifei Wang et.al.|[2602.03152](http://arxiv.org/abs/2602.03152)|null|
+|**2026-01-31**|**Scalable Generative Game Engine: Breaking the Resolution Wall via Hardware-Algorithm Co-Design**|Wei Zeng et.al.|[2602.00608](http://arxiv.org/abs/2602.00608)|null|
+|**2026-01-30**|**Design of a GPU with Heterogeneous Cores for Graphics**|Aurora Tomás et.al.|[2601.22862](http://arxiv.org/abs/2601.22862)|null|
 |**2026-01-29**|**Heterogeneous Computing: The Key to Powering the Future of AI Agent Inference**|Yiren Zhao et.al.|[2601.22001](http://arxiv.org/abs/2601.22001)|null|
-|**2026-01-27**|**How Much Progress Has There Been in NVIDIA Datacenter GPUs?**|Emanuele Del Sozzo et.al.|[2601.20115](http://arxiv.org/abs/2601.20115)|null|
+|**2026-01-29**|**How Much Progress Has There Been in NVIDIA Datacenter GPUs?**|Emanuele Del Sozzo et.al.|[2601.20115](http://arxiv.org/abs/2601.20115)|null|
 |**2026-01-25**|**Beyond FINDCHIRP: Breaking the memory wall and optimal FFTs for Gravitational-Wave Matched-Filter Searches with Ratio-Filter Dechirping**|Alexander H. Nitz et.al.|[2601.18835](http://arxiv.org/abs/2601.18835)|null|
 |**2026-01-26**|**COMETS: Coordinated Multi-Destination Video Transmission with In-Network Rate Adaptation**|Yulong Zhang et.al.|[2601.18670](http://arxiv.org/abs/2601.18670)|null|
 |**2026-01-24**|**Conduit: Programmer-Transparent Near-Data Processing Using Multiple Compute-Capable Resources in Solid State Drives**|Rakesh Nadig et.al.|[2601.17633](http://arxiv.org/abs/2601.17633)|null|
@@ -231,6 +249,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-02**|**FreshMem: Brain-Inspired Frequency-Space Hybrid Memory for Streaming Video Understanding**|Kangcong Li et.al.|[2602.01683](http://arxiv.org/abs/2602.01683)|null|
 |**2026-01-29**|**ShardMemo: Masked MoE Routing for Sharded Agentic LLM Memory**|Yang Zhao et.al.|[2601.21545](http://arxiv.org/abs/2601.21545)|null|
 |**2026-01-26**|**MemWeaver: Weaving Hybrid Memories for Traceable Long-Horizon Agentic Reasoning**|Juexiang Ye et.al.|[2601.18204](http://arxiv.org/abs/2601.18204)|null|
 |**2026-01-21**|**QMC: Efficient SLM Edge Inference via Outlier-Aware Quantization and Emergent Memories Co-Design**|Nilesh Prasad Pandey et.al.|[2601.14549](http://arxiv.org/abs/2601.14549)|null|
@@ -319,6 +338,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-03**|**HyperOffload: Graph-Driven Hierarchical Memory Management for Large Language Models on SuperNode Architectures**|Fangxin Liu et.al.|[2602.00748](http://arxiv.org/abs/2602.00748)|null|
+|**2026-01-31**|**When Classes Evolve: A Benchmark and Framework for Stage-Aware Class-Incremental Learning**|Zheng Zhang et.al.|[2602.00573](http://arxiv.org/abs/2602.00573)|null|
 |**2026-01-15**|**FaTRQ: Tiered Residual Quantization for LLM Vector Search in Far-Memory-Aware ANNS Systems**|Tianqi Zhang et.al.|[2601.09985](http://arxiv.org/abs/2601.09985)|null|
 |**2026-01-06**|**SpANNS: Optimizing Approximate Nearest Neighbor Search for Sparse Vectors Using Near Memory Processing**|Tianqi Zhang et.al.|[2601.03229](http://arxiv.org/abs/2601.03229)|null|
 |**2025-12-28**|**Evolution of Buffer Management in Database Systems: From Classical Algorithms to Machine Learning and Disaggregated Memory**|Prudhvi Gadupudi et.al.|[2512.22995](http://arxiv.org/abs/2512.22995)|null|
@@ -363,6 +384,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-04**|**Horizon-LM: A RAM-Centric Architecture for LLM Training**|Zhengqing Yuan et.al.|[2602.04816](http://arxiv.org/abs/2602.04816)|null|
+|**2026-02-03**|**Accordion-Thinking: Self-Regulated Step Summaries for Efficient and Readable LLM Reasoning**|Zhicheng Yang et.al.|[2602.03249](http://arxiv.org/abs/2602.03249)|null|
+|**2026-02-03**|**Fully Kolmogorov-Arnold Deep Model in Medical Image Segmentation**|Xingyu Qiu et.al.|[2602.03156](http://arxiv.org/abs/2602.03156)|null|
+|**2026-02-03**|**FlashSinkhorn: IO-Aware Entropic Optimal Transport**|Felix X. -F. Ye et.al.|[2602.03067](http://arxiv.org/abs/2602.03067)|null|
+|**2026-02-03**|**Quant VideoGen: Auto-Regressive Long Video Generation via 2-Bit KV-Cache Quantization**|Haocheng Xi et.al.|[2602.02958](http://arxiv.org/abs/2602.02958)|null|
+|**2026-02-02**|**Out of the Memory Barrier: A Highly Memory Efficient Training System for LLMs with Million-Token Contexts**|Wenhao Li et.al.|[2602.02108](http://arxiv.org/abs/2602.02108)|null|
+|**2026-02-02**|**Fast Autoregressive Video Diffusion and World Models with Temporal Cache Compression and Sparse Attention**|Dvir Samuel et.al.|[2602.01801](http://arxiv.org/abs/2602.01801)|null|
+|**2026-02-02**|**A Practical Tensor-Network Compression Pipeline for Production-Scale Large Language Models**|Sergii Kozyrev et.al.|[2602.01613](http://arxiv.org/abs/2602.01613)|null|
+|**2026-02-01**|**ESSAM: A Novel Competitive Evolution Strategies Approach to Reinforcement Learning for Memory Efficient LLMs Fine-Tuning**|Zhishen Sun et.al.|[2602.01003](http://arxiv.org/abs/2602.01003)|null|
+|**2026-02-03**|**HyperOffload: Graph-Driven Hierarchical Memory Management for Large Language Models on SuperNode Architectures**|Fangxin Liu et.al.|[2602.00748](http://arxiv.org/abs/2602.00748)|null|
 |**2026-01-29**|**Don't be so Stief! Learning KV Cache low-rank approximation over the Stiefel manifold**|Luca Benfenati et.al.|[2601.21686](http://arxiv.org/abs/2601.21686)|null|
 |**2026-01-29**|**ScaleSim: Serving Large-Scale Multi-Agent Simulation with Invocation Distance-Based Memory Management**|Zaifeng Pan et.al.|[2601.21473](http://arxiv.org/abs/2601.21473)|null|
 |**2026-01-29**|**Drive-KD: Multi-Teacher Distillation for VLMs in Autonomous Driving**|Weitong Lian et.al.|[2601.21288](http://arxiv.org/abs/2601.21288)|null|
@@ -431,6 +462,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-30**|**HetCCL: Accelerating LLM Training with Heterogeneous GPUs**|Heehoon Kim et.al.|[2601.22585](http://arxiv.org/abs/2601.22585)|null|
 |**2026-01-28**|**OnePiece: A Large-Scale Distributed Inference System with RDMA for Complex AI-Generated Content (AIGC) Workflows**|June Chen et.al.|[2601.20655](http://arxiv.org/abs/2601.20655)|null|
 |**2026-01-26**|**Validation of a Software-Defined 100-Gb/s RDMA Streaming Architecture for Ultrafast Optoacoustic and Ultrasound Imaging**|Federico Villani et.al.|[2601.18280](http://arxiv.org/abs/2601.18280)|null|
 |**2026-01-27**|**Specifying and Verifying RDMA Synchronisation (Extended Version)**|Guillaume Ambal et.al.|[2601.14642](http://arxiv.org/abs/2601.14642)|null|
@@ -457,6 +489,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-03**|**HyperOffload: Graph-Driven Hierarchical Memory Management for Large Language Models on SuperNode Architectures**|Fangxin Liu et.al.|[2602.00748](http://arxiv.org/abs/2602.00748)|null|
+|**2026-01-31**|**When Classes Evolve: A Benchmark and Framework for Stage-Aware Class-Incremental Learning**|Zheng Zhang et.al.|[2602.00573](http://arxiv.org/abs/2602.00573)|null|
 |**2026-01-15**|**Long-term Monitoring of Kernel and Hardware Events to Understand Latency Variance**|Fang Zhou et.al.|[2601.10572](http://arxiv.org/abs/2601.10572)|null|
 |**2026-01-15**|**FaTRQ: Tiered Residual Quantization for LLM Vector Search in Far-Memory-Aware ANNS Systems**|Tianqi Zhang et.al.|[2601.09985](http://arxiv.org/abs/2601.09985)|null|
 |**2026-01-06**|**SpANNS: Optimizing Approximate Nearest Neighbor Search for Sparse Vectors Using Near Memory Processing**|Tianqi Zhang et.al.|[2601.03229](http://arxiv.org/abs/2601.03229)|null|
