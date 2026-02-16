@@ -2,13 +2,23 @@
 layout: default
 ---
 
-## Updated on 2026.02.11
+## Updated on 2026.02.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Processing-in-Memory
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-12**|**Query-focused and Memory-aware Reranker for Long Context Processing**|Yuqing Li et.al.|[2602.12192](http://arxiv.org/abs/2602.12192)|null|
+|**2026-02-12**|**The Pensieve Paradigm: Stateful Language Models Mastering Their Own Context**|Xiaoyuan Liu et.al.|[2602.12108](http://arxiv.org/abs/2602.12108)|null|
+|**2026-02-12**|**Iskra: A System for Inverse Geometry Processing**|Ana Dodik et.al.|[2602.12105](http://arxiv.org/abs/2602.12105)|null|
+|**2026-02-12**|**LawThinker: A Deep Research Legal Agent in Dynamic Environments**|Xinyu Yang et.al.|[2602.12056](http://arxiv.org/abs/2602.12056)|null|
+|**2026-02-12**|**Momentum LMS Theory beyond Stationarity: Stability, Tracking, and Regret**|Yifei Jin et.al.|[2602.11995](http://arxiv.org/abs/2602.11995)|null|
+|**2026-02-12**|**Gray Codes With Constant Delay and Constant Auxiliary Space**|Antoine Amarilli et.al.|[2602.11791](http://arxiv.org/abs/2602.11791)|null|
+|**2026-02-12**|**Device-Circuit Co-Design of Variation-Resilient Read and Write Drivers for Antiferromagnetic Tunnel Junction (AFMTJ) Memories**|Yousuf Choudhary et.al.|[2602.11614](http://arxiv.org/abs/2602.11614)|null|
+|**2026-02-12**|**Scene-Aware Memory Discrimination: Deciding Which Personal Knowledge Stays**|Yijie Zhong et.al.|[2602.11607](http://arxiv.org/abs/2602.11607)|null|
+|**2026-02-12**|**TC-BiMamba: Trans-Chunk bidirectionally within BiMamba for unified streaming and non-streaming ASR**|Qingshun She et.al.|[2602.11546](http://arxiv.org/abs/2602.11546)|null|
+|**2026-02-12**|**PAM: Processing Across Memory Hierarchy for Efficient KV-centric LLM Serving System**|Lian Liu et.al.|[2602.11521](http://arxiv.org/abs/2602.11521)|null|
 |**2026-02-09**|**A Mathematical Theory of Redox Biology**|James N. Cobley et.al.|[2602.08897](http://arxiv.org/abs/2602.08897)|null|
 |**2026-02-09**|**Efficient Deep Learning for Biometrics: Overview, Challenges and Trends in Ear of Frugal AI**|Karim Haroun et.al.|[2602.08809](http://arxiv.org/abs/2602.08809)|null|
 |**2026-02-09**|**Reasoning aligns language models to human cognition**|Gonçalo Guiomar et.al.|[2602.08693](http://arxiv.org/abs/2602.08693)|null|
@@ -166,11 +176,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-11**|**Flow caching for autoregressive video generation**|Yuexiao Ma et.al.|[2602.10825](http://arxiv.org/abs/2602.10825)|null|
+|**2026-02-10**|**WildCat: Near-Linear Attention in Theory and Practice**|Tobias Schröder et.al.|[2602.10056](http://arxiv.org/abs/2602.10056)|null|
 |**2026-02-09**|**ManifoldKV: Training-Free KV Cache Compression via Euclidean Outlier Detection**|Debajyoti Datta et.al.|[2602.08343](http://arxiv.org/abs/2602.08343)|null|
 |**2026-02-08**|**DeltaKV: Residual-Based KV Cache Compression via Long-Range Similarity**|Jitai Hao et.al.|[2602.08005](http://arxiv.org/abs/2602.08005)|null|
 |**2026-02-07**|**KV-CoRE: Benchmarking Data-Dependent Low-Rank Compressibility of KV-Caches in LLMs**|Jian Chen et.al.|[2602.05929](http://arxiv.org/abs/2602.05929)|null|
 |**2026-02-04**|**Harmonia: Algorithm-Hardware Co-Design for Memory- and Compute-Efficient BFP-based LLM Inference**|Xinyu Wang et.al.|[2602.04595](http://arxiv.org/abs/2602.04595)|null|
-|**2026-02-04**|**RAP: KV-Cache Compression via RoPE-Aligned Pruning**|Jihao Xin et.al.|[2602.02599](http://arxiv.org/abs/2602.02599)|null|
+|**2026-02-10**|**RAP: KV-Cache Compression via RoPE-Aligned Pruning**|Jihao Xin et.al.|[2602.02599](http://arxiv.org/abs/2602.02599)|null|
 |**2026-02-02**|**More Than a Quick Glance: Overcoming the Greedy Bias in KV-Cache Compression**|Aryan Sood et.al.|[2602.02199](http://arxiv.org/abs/2602.02199)|null|
 |**2026-02-02**|**Fast Autoregressive Video Diffusion and World Models with Temporal Cache Compression and Sparse Attention**|Dvir Samuel et.al.|[2602.01801](http://arxiv.org/abs/2602.01801)|null|
 |**2026-01-29**|**SONIC: Segmented Optimized Nexus for Information Compression in Key-Value Caching**|Hong Chen et.al.|[2601.21927](http://arxiv.org/abs/2601.21927)|null|
@@ -203,6 +215,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-12**|**Deep Kernel Fusion for Transformers**|Zixi Zhang et.al.|[2602.11808](http://arxiv.org/abs/2602.11808)|null|
+|**2026-02-12**|**PAM: Processing Across Memory Hierarchy for Efficient KV-centric LLM Serving System**|Lian Liu et.al.|[2602.11521](http://arxiv.org/abs/2602.11521)|null|
+|**2026-02-11**|**Compute Only Once: UG-Separation for Efficient Large Recommendation Models**|Hui Lu et.al.|[2602.10455](http://arxiv.org/abs/2602.10455)|null|
+|**2026-02-10**|**Development of an Energy-Efficient and Real-Time Data Movement Strategy for Next-Generation Heterogeneous Mixed-Criticality Systems**|Thomas Benz et.al.|[2602.09554](http://arxiv.org/abs/2602.09554)|null|
+|**2026-02-10**|**Camel: Frame-Level Bandwidth Estimation for Low-Latency Live Streaming under Video Bitrate Undershooting**|Liming Liu et.al.|[2602.09500](http://arxiv.org/abs/2602.09500)|null|
+|**2026-02-10**|**LLM-CoOpt: A Co-Design and Optimization Framework for Efficient LLM Inference on Heterogeneous Platforms**|Jie Kong et.al.|[2602.09323](http://arxiv.org/abs/2602.09323)|null|
 |**2026-02-02**|**FlashSketch: Sketch-Kernel Co-Design for Fast Sparse Sketching on GPUs**|Rajat Vadiraj Dwaraknath et.al.|[2602.06071](http://arxiv.org/abs/2602.06071)|null|
 |**2026-01-27**|**Mapping Gemma3 onto an Edge Dataflow Architecture**|Shouyu Du et.al.|[2602.06063](http://arxiv.org/abs/2602.06063)|null|
 |**2026-02-07**|**KV-CoRE: Benchmarking Data-Dependent Low-Rank Compressibility of KV-Caches in LLMs**|Jian Chen et.al.|[2602.05929](http://arxiv.org/abs/2602.05929)|null|
@@ -386,6 +404,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-12**|**Timing and Memory Telemetry on GPUs for AI Governance**|Saleh K. Monfared et.al.|[2602.09369](http://arxiv.org/abs/2602.09369)|null|
 |**2026-02-09**|**MemAdapter: Fast Alignment across Agent Memory Paradigms via Generative Subgraph Retrieval**|Xin Zhang et.al.|[2602.08369](http://arxiv.org/abs/2602.08369)|null|
 |**2026-02-05**|**Taking the Leap: Efficient and Reliable Fine-Grained NUMA Migration in User-space**|Felix Schuhknecht et.al.|[2602.05540](http://arxiv.org/abs/2602.05540)|null|
 |**2026-01-28**|**Efficient Autoregressive Video Diffusion with Dummy Head**|Hang Guo et.al.|[2601.20499](http://arxiv.org/abs/2601.20499)|null|
@@ -410,6 +429,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-12**|**Deep Kernel Fusion for Transformers**|Zixi Zhang et.al.|[2602.11808](http://arxiv.org/abs/2602.11808)|null|
+|**2026-02-12**|**Pretraining A Large Language Model using Distributed GPUs: A Memory-Efficient Decentralized Paradigm**|Jinrui Zhang et.al.|[2602.11543](http://arxiv.org/abs/2602.11543)|null|
+|**2026-02-12**|**PASCAL: A Phase-Aware Scheduling Algorithm for Serving Reasoning-based Large Language Models**|Eunyeong Cho et.al.|[2602.11530](http://arxiv.org/abs/2602.11530)|null|
+|**2026-02-11**|**TabICLv2: A better, faster, scalable, and open tabular foundation model**|Jingang Qu et.al.|[2602.11139](http://arxiv.org/abs/2602.11139)|null|
+|**2026-02-11**|**Scaling Routers with In-Package Optics and High-Bandwidth Memories**|Isaac Keslassy et.al.|[2602.10505](http://arxiv.org/abs/2602.10505)|null|
+|**2026-02-11**|**GPU-Fuzz: Finding Memory Errors in Deep Learning Frameworks**|Zihao Li et.al.|[2602.10478](http://arxiv.org/abs/2602.10478)|null|
 |**2026-02-09**|**Predicting Future Utility: Global Combinatorial Optimization for Task-Agnostic KV Cache Eviction**|Ziyao Tang et.al.|[2602.08585](http://arxiv.org/abs/2602.08585)|null|
 |**2026-02-09**|**Vista: Scene-Aware Optimization for Streaming Video Question Answering under Post-Hoc Queries**|Haocheng Lu et.al.|[2602.08448](http://arxiv.org/abs/2602.08448)|null|
 |**2026-02-09**|**Dynamic Long Context Reasoning over Compressed Memory via End-to-End Reinforcement Learning**|Zhuoen Chen et.al.|[2602.08382](http://arxiv.org/abs/2602.08382)|null|
@@ -496,7 +521,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-02-09**|**MonkeyTree: Near-Minimal Congestion for Multi-tenant Training via Migration**|Anton A. Zabreyko et.al.|[2602.08296](http://arxiv.org/abs/2602.08296)|null|
+|**2026-02-12**|**RL over Commodity Networks: Overcoming the Bandwidth Barrier with Lossless Sparse Deltas**|Chaoyi Ruan et.al.|[2602.11456](http://arxiv.org/abs/2602.11456)|null|
+|**2026-02-10**|**MonkeyTree: Near-Minimal Congestion for Multi-tenant Training via Migration**|Anton A. Zabreyko et.al.|[2602.08296](http://arxiv.org/abs/2602.08296)|null|
 |**2026-02-06**|**FCDP: Fully Cached Data Parallel for Communication-Avoiding Large-Scale Training**|Gyeongseo Park et.al.|[2602.06499](http://arxiv.org/abs/2602.06499)|null|
 |**2026-01-30**|**HetCCL: Accelerating LLM Training with Heterogeneous GPUs**|Heehoon Kim et.al.|[2601.22585](http://arxiv.org/abs/2601.22585)|null|
 |**2026-01-28**|**OnePiece: A Large-Scale Distributed Inference System with RDMA for Complex AI-Generated Content (AIGC) Workflows**|June Chen et.al.|[2601.20655](http://arxiv.org/abs/2601.20655)|null|
