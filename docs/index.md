@@ -2,13 +2,23 @@
 layout: default
 ---
 
-## Updated on 2026.04.27
+## Updated on 2026.05.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Processing-in-Memory
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-30**|**An adaptive wavelet-based PINN for problems with localized high-magnitude source**|Himanshu Pandey et.al.|[2604.28180](http://arxiv.org/abs/2604.28180)|null|
+|**2026-04-30**|**Multisensory learning recruits visual neurons into an olfactory memory engram**|Zeynep Okray et.al.|[2604.28007](http://arxiv.org/abs/2604.28007)|null|
+|**2026-04-30**|**CastFlow: Learning Role-Specialized Agentic Workflows for Time Series Forecasting**|Bokai Pan et.al.|[2604.27840](http://arxiv.org/abs/2604.27840)|null|
+|**2026-04-30**|**AME-PIM: Can Memory be Your Next Tensor Accelerator?**|Emanuele Venieri et.al.|[2604.27808](http://arxiv.org/abs/2604.27808)|null|
+|**2026-04-30**|**Geometric memory in incomplete phase transitions across dimensions**|F. Tolea et.al.|[2604.27779](http://arxiv.org/abs/2604.27779)|null|
+|**2026-04-29**|**Web2BigTable: A Bi-Level Multi-Agent LLM System for Internet-Scale Information Search and Extraction**|Yuxuan Huang et.al.|[2604.27221](http://arxiv.org/abs/2604.27221)|null|
+|**2026-04-29**|**A High-Throughput Compute-Efficient POMDP Hide-And-Seek-Engine (HASE) for Multi-Agent Operations**|Timothy Flavin et.al.|[2604.27162](http://arxiv.org/abs/2604.27162)|null|
+|**2026-04-29**|**MemOVCD: Training-Free Open-Vocabulary Change Detection via Cross-Temporal Memory Reasoning and Global-Local Adaptive Rectification**|Zuzheng Kuang et.al.|[2604.26774](http://arxiv.org/abs/2604.26774)|null|
+|**2026-04-29**|**Observation of Non-Markovian Evolution of Tripartite Quantum Steering**|Yan Wang et.al.|[2604.26711](http://arxiv.org/abs/2604.26711)|null|
+|**2026-04-29**|**Quo vadis, stochastic thermodynamics?**|Jan Korbel et.al.|[2604.26601](http://arxiv.org/abs/2604.26601)|null|
 |**2026-04-23**|**Low-Rank Adaptation Redux for Large Models**|Bingcong Li et.al.|[2604.21905](http://arxiv.org/abs/2604.21905)|null|
 |**2026-04-23**|**Large-Scale Data Parallelization of Product Quantization and Inverted Indexing Using Dask**|Ashley N. Abraham et.al.|[2604.21645](http://arxiv.org/abs/2604.21645)|null|
 |**2026-04-23**|**Promoting Simple Agents: Ensemble Methods for Event-Log Prediction**|Benedikt Bollig et.al.|[2604.21629](http://arxiv.org/abs/2604.21629)|null|
@@ -250,6 +260,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-30**|**AMMA: A Multi-Chiplet Memory-Centric Architecture for Low-Latency 1M Context Attention Serving**|Zhongkai Yu et.al.|[2604.26103](http://arxiv.org/abs/2604.26103)|null|
 |**2026-04-20**|**CIMple: Standard-cell SRAM-based CIM with LUT-based split softmax for attention acceleration**|Bas Ahn et.al.|[2604.15944](http://arxiv.org/abs/2604.15944)|null|
 |**2026-04-23**|**ELMoE-3D: Leveraging Intrinsic Elasticity of MoE for Hybrid-Bonding-Enabled Self-Speculative Decoding in On-Premises Serving**|Yuseon Choi et.al.|[2604.14626](http://arxiv.org/abs/2604.14626)|null|
 |**2026-04-15**|**Beyond LLMs, Sparse Distributed Memory, and Neuromorphics <A Hyper-Dimensional SRAM-CAM "VaCoAl" for Ultra-High Speed, Ultra-Low Power, and Low Cost>**|Hiroyuki Chuma et.al.|[2604.11665](http://arxiv.org/abs/2604.11665)|null|
@@ -271,6 +282,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-27**|**PolyKV: A Shared Asymmetrically-Compressed KV Cache Pool for Multi-Agent LLM Inference**|Ishan Patel et.al.|[2604.24971](http://arxiv.org/abs/2604.24971)|null|
+|**2026-04-24**|**How LLMs Detect and Correct Their Own Errors: The Role of Internal Confidence Signals**|Dharshan Kumaran et.al.|[2604.22271](http://arxiv.org/abs/2604.22271)|null|
 |**2026-04-22**|**DASH-KV: Accelerating Long-Context LLM Inference via Asymmetric KV Cache Hashing**|Jinyu Guo et.al.|[2604.19351](http://arxiv.org/abs/2604.19351)|null|
 |**2026-04-21**|**SAW-INT4: System-Aware 4-Bit KV-Cache Quantization for Real-World LLM Serving**|Jinda Jia et.al.|[2604.19157](http://arxiv.org/abs/2604.19157)|null|
 |**2026-04-20**|**MoE-nD: Per-Layer Mixture-of-Experts Routing for Multi-Axis KV Cache Compression**|Libo Sun et.al.|[2604.17695](http://arxiv.org/abs/2604.17695)|null|
@@ -345,6 +358,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-30**|**Energy efficiency of a GPU-based computing system for High Energy Physics experiments**|Jiahui Zhuo et.al.|[2604.27523](http://arxiv.org/abs/2604.27523)|null|
+|**2026-04-30**|**VitaLLM: A Versatile, Ultra-Compact Ternary LLM Accelerator with Dependency-Aware Scheduling**|Zi-Wei Lin et.al.|[2604.27396](http://arxiv.org/abs/2604.27396)|null|
+|**2026-04-29**|**Exploring the Efficiency of 3D-Stacked AI Chip Architecture for LLM Inference with Voxel**|Yiqi Liu et.al.|[2604.26821](http://arxiv.org/abs/2604.26821)|null|
+|**2026-04-30**|**AMMA: A Multi-Chiplet Memory-Centric Architecture for Low-Latency 1M Context Attention Serving**|Zhongkai Yu et.al.|[2604.26103](http://arxiv.org/abs/2604.26103)|null|
+|**2026-04-28**|**Hardware Generation and Exploration of Lookup Table-Based Accelerators for 1.58-bit LLM Inference**|Robin Geens et.al.|[2604.25183](http://arxiv.org/abs/2604.25183)|null|
+|**2026-04-25**|**Tessera: Secure, Near-Line-Rate Weight Streaming for UMA Edge Accelerators**|Animan Naskar et.al.|[2604.23205](http://arxiv.org/abs/2604.23205)|null|
+|**2026-04-25**|**Maximizing Memory-Level Parallelism via Integrated Stochastic Logic-in-Memory Architectures**|Farzad Razi et.al.|[2604.23146](http://arxiv.org/abs/2604.23146)|null|
+|**2026-04-24**|**OCC: Physical-Layer Assisted Congestion Control for Real-Time Communications**|Yufan Zhuang et.al.|[2604.22383](http://arxiv.org/abs/2604.22383)|null|
+|**2026-04-24**|**Microarchitectural Co-Optimization for Sustained Throughput of RISC-V Multi-Lane Chaining Vector Processors**|Weiying Wang et.al.|[2604.22314](http://arxiv.org/abs/2604.22314)|null|
+|**2026-04-24**|**Fast GPU Linear Algebra via Compile Time Expression Fusion**|Ryan R. Curtin et.al.|[2604.22242](http://arxiv.org/abs/2604.22242)|null|
 |**2026-04-22**|**FairyFuse: Multiplication-Free LLM Inference on CPUs via Fused Ternary Kernels**|Fei Zuo et.al.|[2604.20913](http://arxiv.org/abs/2604.20913)|null|
 |**2026-04-20**|**Proxics: an efficient programming model for far memory accelerators**|Zikai Liu et.al.|[2604.18120](http://arxiv.org/abs/2604.18120)|null|
 |**2026-04-18**|**Symphony: Taming Step Misalignments in the Network for Ring-based Collective Operations**|Yuze Jin et.al.|[2604.16880](http://arxiv.org/abs/2604.16880)|null|
@@ -466,6 +489,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-19**|**Predictive Multi-Tier Memory Management for KV Cache in Large-Scale GPU Inference**|Sanjeev Rao Ganjihal et.al.|[2604.26968](http://arxiv.org/abs/2604.26968)|null|
+|**2026-04-28**|**DAK: Direct-Access-Enabled GPU Memory Offloading with Optimal Efficiency for LLM Inference**|Shouxu Lin et.al.|[2604.26074](http://arxiv.org/abs/2604.26074)|null|
+|**2026-04-27**|**DataClaw: An Autonomous Data Agent with Instant Messaging Integration**|Huahang Li et.al.|[2604.24067](http://arxiv.org/abs/2604.24067)|null|
 |**2026-04-23**|**ImageHD: Energy-Efficient On-Device Continual Learning of Visual Representations via Hyperdimensional Computing**|Jebacyril Arockiaraj et.al.|[2604.21280](http://arxiv.org/abs/2604.21280)|null|
 |**2026-04-21**|**Efficient Page Migration in Hybrid Memory Systems**|Upasna et.al.|[2604.19932](http://arxiv.org/abs/2604.19932)|null|
 |**2026-04-20**|**HybridGen: Efficient LLM Generative Inference via CPU-GPU Hybrid Computing**|Mao Lin et.al.|[2604.18529](http://arxiv.org/abs/2604.18529)|null|
@@ -593,6 +619,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-19**|**Predictive Multi-Tier Memory Management for KV Cache in Large-Scale GPU Inference**|Sanjeev Rao Ganjihal et.al.|[2604.26968](http://arxiv.org/abs/2604.26968)|null|
+|**2026-04-29**|**StratMem-Bench: Evaluating Strategic Memory Use in Virtual Character Conversation Beyond Factual Recall**|Yerong Wu et.al.|[2604.26243](http://arxiv.org/abs/2604.26243)|null|
 |**2026-04-21**|**Efficient Page Migration in Hybrid Memory Systems**|Upasna et.al.|[2604.19932](http://arxiv.org/abs/2604.19932)|null|
 |**2026-04-21**|**DPC: A Distributed Page Cache over CXL**|Shai Bergman et.al.|[2604.19494](http://arxiv.org/abs/2604.19494)|null|
 |**2026-04-21**|**Corneal deformation mapping and FE-based strain analysis via digital image correlation: biomechanical changes after CXL and laser refractive surgery**|Benedetta Fantaci et.al.|[2604.19289](http://arxiv.org/abs/2604.19289)|null|
@@ -647,6 +675,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-29**|**StratMem-Bench: Evaluating Strategic Memory Use in Virtual Character Conversation Beyond Factual Recall**|Yerong Wu et.al.|[2604.26243](http://arxiv.org/abs/2604.26243)|null|
 |**2026-04-21**|**Efficient Page Migration in Hybrid Memory Systems**|Upasna et.al.|[2604.19932](http://arxiv.org/abs/2604.19932)|null|
 |**2026-04-20**|**HybridGen: Efficient LLM Generative Inference via CPU-GPU Hybrid Computing**|Mao Lin et.al.|[2604.18529](http://arxiv.org/abs/2604.18529)|null|
 |**2026-04-19**|**Towards Energy Efficient Co-Scheduling in HPC**|Zhong Zheng et.al.|[2604.17640](http://arxiv.org/abs/2604.17640)|null|
@@ -692,6 +721,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-30**|**FlashRT: Towards Computationally and Memory Efficient Red-Teaming for Prompt Injection and Knowledge Corruption**|Yanting Wang et.al.|[2604.28157](http://arxiv.org/abs/2604.28157)|null|
+|**2026-04-30**|**AME-PIM: Can Memory be Your Next Tensor Accelerator?**|Emanuele Venieri et.al.|[2604.27808](http://arxiv.org/abs/2604.27808)|null|
+|**2026-04-29**|**Lightweight Distillation of SAM 3 and DINOv3 for Edge-Deployable Individual-Level Livestock Monitoring and Longitudinal Visual Analytics**|Haiyu Yang et.al.|[2604.27128](http://arxiv.org/abs/2604.27128)|null|
+|**2026-04-29**|**Efficient Training on Multiple Consumer GPUs with RoundPipe**|Yibin Luo et.al.|[2604.27085](http://arxiv.org/abs/2604.27085)|null|
+|**2026-04-29**|**Unifying Sparse Attention with Hierarchical Memory for Scalable Long-Context LLM Serving**|Zihan Zhao et.al.|[2604.26837](http://arxiv.org/abs/2604.26837)|null|
+|**2026-04-30**|**AMMA: A Multi-Chiplet Memory-Centric Architecture for Low-Latency 1M Context Attention Serving**|Zhongkai Yu et.al.|[2604.26103](http://arxiv.org/abs/2604.26103)|null|
+|**2026-04-28**|**DAK: Direct-Access-Enabled GPU Memory Offloading with Optimal Efficiency for LLM Inference**|Shouxu Lin et.al.|[2604.26074](http://arxiv.org/abs/2604.26074)|null|
+|**2026-04-28**|**WhisperPipe: A Resource-Efficient Streaming Architecture for Real-Time Automatic Speech Recognition**|Erfan Ramezani et.al.|[2604.25611](http://arxiv.org/abs/2604.25611)|null|
+|**2026-04-28**|**SnapGuard: Lightweight Prompt Injection Detection for Screenshot-Based Web Agents**|Mengyao Du et.al.|[2604.25562](http://arxiv.org/abs/2604.25562)|null|
+|**2026-04-24**|**Reward Models Are Secretly Value Functions: Temporally Coherent Reward Modeling**|Alex Nikulkov et.al.|[2604.22981](http://arxiv.org/abs/2604.22981)|null|
 |**2026-04-20**|**High-Fidelity 3D Gaussian Human Reconstruction via Region-Aware Initialization and Geometric Priors**|Yang Liu et.al.|[2604.21714](http://arxiv.org/abs/2604.21714)|null|
 |**2026-04-23**|**A Green-Integral-Constrained Neural Solver with Stochastic Physics-Informed Regularization**|Mohammad Mahdi Abedi et.al.|[2604.21411](http://arxiv.org/abs/2604.21411)|null|
 |**2026-04-23**|**The Recurrent Transformer: Greater Effective Depth and Efficient Decoding**|Costin-Andrei Oncescu et.al.|[2604.21215](http://arxiv.org/abs/2604.21215)|null|
@@ -854,6 +893,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-19**|**Predictive Multi-Tier Memory Management for KV Cache in Large-Scale GPU Inference**|Sanjeev Rao Ganjihal et.al.|[2604.26968](http://arxiv.org/abs/2604.26968)|null|
+|**2026-04-27**|**MatchRDMA: A Segmented and Rate-Matched Long-Haul RDMA Scheme for Geo-distributed LLM Training over OTN**|Jun Dai et.al.|[2604.23932](http://arxiv.org/abs/2604.23932)|null|
+|**2026-04-24**|**GICC: A High-Performance Runtime for GPU-Initiated Communication and Coordination in Modern HPC Systems**|Baodi Shan et.al.|[2604.22126](http://arxiv.org/abs/2604.22126)|null|
 |**2026-04-16**|**SCENIC: Stream Computation-Enhanced SmartNIC**|Benjamin Ramhorst et.al.|[2604.15128](http://arxiv.org/abs/2604.15128)|null|
 |**2026-04-22**|**Prefill-as-a-Service: KVCache of Next-Generation Models Could Go Cross-Datacenter**|Ruoyu Qin et.al.|[2604.15039](http://arxiv.org/abs/2604.15039)|null|
 |**2026-04-13**|**Characterizing the Impact of Congestion in Modern HPC Interconnects**|Lorenzo Piarulli et.al.|[2604.11432](http://arxiv.org/abs/2604.11432)|null|
@@ -909,6 +951,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-19**|**Predictive Multi-Tier Memory Management for KV Cache in Large-Scale GPU Inference**|Sanjeev Rao Ganjihal et.al.|[2604.26968](http://arxiv.org/abs/2604.26968)|null|
+|**2026-04-29**|**StratMem-Bench: Evaluating Strategic Memory Use in Virtual Character Conversation Beyond Factual Recall**|Yerong Wu et.al.|[2604.26243](http://arxiv.org/abs/2604.26243)|null|
 |**2026-04-21**|**Efficient Page Migration in Hybrid Memory Systems**|Upasna et.al.|[2604.19932](http://arxiv.org/abs/2604.19932)|null|
 |**2026-04-21**|**DPC: A Distributed Page Cache over CXL**|Shai Bergman et.al.|[2604.19494](http://arxiv.org/abs/2604.19494)|null|
 |**2026-04-21**|**Corneal deformation mapping and FE-based strain analysis via digital image correlation: biomechanical changes after CXL and laser refractive surgery**|Benedetta Fantaci et.al.|[2604.19289](http://arxiv.org/abs/2604.19289)|null|
