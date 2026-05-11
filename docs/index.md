@@ -2,13 +2,23 @@
 layout: default
 ---
 
-## Updated on 2026.05.06
+## Updated on 2026.05.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Processing-in-Memory
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-08**|**EmambaIR: Efficient Visual State Space Model for Event-guided Image Reconstruction**|Wei Yu et.al.|[2605.08073](http://arxiv.org/abs/2605.08073)|null|
+|**2026-05-08**|**Graph-Structured Hyperdimensional Computing for Data-Efficient and Explainable Process-Structure-Property Prediction**|Jingzhan Ge et.al.|[2605.07999](http://arxiv.org/abs/2605.07999)|null|
+|**2026-05-08**|**A Fully Tunable Ultra-Low Power Current-Mode Memory Cell in Standard CMOS Technology**|Arthur Fyon et.al.|[2605.07936](http://arxiv.org/abs/2605.07936)|null|
+|**2026-05-08**|**Semantic-Aware Adaptive Visual Memory for Streaming Video Understanding**|Hang Wu et.al.|[2605.07897](http://arxiv.org/abs/2605.07897)|null|
+|**2026-05-08**|**Physics-Inspired Probabilistic Computing for Extremely Large-Scale MIMO Detection in Future 6G Wireless Systems**|Andrea Grimaldi et.al.|[2605.07884](http://arxiv.org/abs/2605.07884)|null|
+|**2026-05-08**|**ADKO: Agentic Decentralized Knowledge Optimization**|Lucas Nerone Rillo et.al.|[2605.07863](http://arxiv.org/abs/2605.07863)|null|
+|**2026-05-08**|**POETS: Uncertainty-Aware LLM Optimization via Compute-Efficient Policy Ensembles**|Nicolas Menet et.al.|[2605.07775](http://arxiv.org/abs/2605.07775)|null|
+|**2026-05-08**|**Accelerating Precise End-to-End Simulation: Latency-Sensitive Many-core System Modeling**|Yinrong Li et.al.|[2605.07750](http://arxiv.org/abs/2605.07750)|null|
+|**2026-05-08**|**CSR: Infinite-Horizon Real-Time Policies with Massive Cached State Representations**|Robin Karlsson et.al.|[2605.07325](http://arxiv.org/abs/2605.07325)|null|
+|**2026-05-08**|**AdaTKG: Adaptive Memory for Temporal Knowledge Graph Reasoning**|Seunghan Lee et.al.|[2605.07121](http://arxiv.org/abs/2605.07121)|null|
 |**2026-05-05**|**Aerosol memory in stratocumulus clouds leads to noise-induced patterns and non-ergodic sampling**|Benjamin Hernandez et.al.|[2605.04002](http://arxiv.org/abs/2605.04002)|null|
 |**2026-05-05**|**GPUBreach: Privilege Escalation Attacks on GPUs using Rowhammer**|Chris S. Lin et.al.|[2605.03812](http://arxiv.org/abs/2605.03812)|null|
 |**2026-05-05**|**Real Image Denoising with Knowledge Distillation for High-Performance Mobile NPUs**|Faraz Kayani et.al.|[2605.03680](http://arxiv.org/abs/2605.03680)|null|
@@ -293,6 +303,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-07**|**How to Compress KV Cache in RL Post-Training? Shadow Mask Distillation for Memory-Efficient Alignment**|Rui Zhu et.al.|[2605.06850](http://arxiv.org/abs/2605.06850)|null|
+|**2026-04-22**|**LKV: End-to-End Learning of Head-wise Budgets and Token Selection for LLM KV Cache Eviction**|Enshuai Zhou et.al.|[2605.06676](http://arxiv.org/abs/2605.06676)|null|
+|**2026-05-07**|**Quantizing With Randomized Hadamard Transforms: Efficient Heuristic Now Proven**|Ran Ben-Basat et.al.|[2605.06014](http://arxiv.org/abs/2605.06014)|null|
+|**2026-05-07**|**Training Transformers for KV Cache Compressibility**|Yoav Gelberg et.al.|[2605.05971](http://arxiv.org/abs/2605.05971)|null|
 |**2026-05-03**|**Stochastic Sparse Attention for Memory-Bound Inference**|Kyle Lee et.al.|[2605.01910](http://arxiv.org/abs/2605.01910)|null|
 |**2026-04-27**|**PolyKV: A Shared Asymmetrically-Compressed KV Cache Pool for Multi-Agent LLM Inference**|Ishan Patel et.al.|[2604.24971](http://arxiv.org/abs/2604.24971)|null|
 |**2026-05-01**|**How LLMs Detect and Correct Their Own Errors: The Role of Internal Confidence Signals**|Dharshan Kumaran et.al.|[2604.22271](http://arxiv.org/abs/2604.22271)|null|
@@ -370,6 +384,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-08**|**Fast Byte Latent Transformer**|Julie Kallini et.al.|[2605.08044](http://arxiv.org/abs/2605.08044)|null|
+|**2026-05-07**|**TokenStack: A Heterogeneous HBM-PIM Architecture and Runtime for Efficient LLM Inference**|Zhuoran Li et.al.|[2605.05639](http://arxiv.org/abs/2605.05639)|null|
+|**2026-05-07**|**Hardware-Aware Neural Feature Extraction for Resource-Constrained Devices**|Francesco Tosini et.al.|[2605.04282](http://arxiv.org/abs/2605.04282)|null|
+|**2026-05-05**|**Microbenchmark-Driven Analytical Performance Modeling Across Modern GPU Architectures**|Aaron Jarmusch et.al.|[2605.04178](http://arxiv.org/abs/2605.04178)|null|
 |**2026-05-04**|**Gated Subspace Inference for Transformer Acceleration**|Stephen J. Thomas et.al.|[2605.03109](http://arxiv.org/abs/2605.03109)|null|
 |**2026-05-04**|**Performance and Energy Benefits of MRDIMMs**|Pau Díaz et.al.|[2605.02371](http://arxiv.org/abs/2605.02371)|null|
 |**2026-04-30**|**Energy efficiency of a GPU-based computing system for High Energy Physics experiments**|Jiahui Zhuo et.al.|[2604.27523](http://arxiv.org/abs/2604.27523)|null|
@@ -593,6 +611,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-08**|**TENNOR: Trustworthy Execution for Neural Networks through Obliviousness and Retrievals**|Zifan Qu et.al.|[2605.07160](http://arxiv.org/abs/2605.07160)|null|
+|**2026-05-07**|**Towards Emotion Consistency Analysis of Large Language Models in Emotional Conversational Contexts**|Sneha Oram et.al.|[2605.06476](http://arxiv.org/abs/2605.06476)|null|
 |**2026-04-22**|**Onyx: Cost-Efficient Disk-Oblivious ANN Search**|Deevashwer Rathee et.al.|[2604.20401](http://arxiv.org/abs/2604.20401)|null|
 |**2026-04-17**|**MemEvoBench: Benchmarking Memory MisEvolution in LLM Agents**|Weiwei Xie et.al.|[2604.15774](http://arxiv.org/abs/2604.15774)|null|
 |**2026-04-02**|**Opal: Private Memory for Personal AI**|Darya Kaviani et.al.|[2604.02522](http://arxiv.org/abs/2604.02522)|null|
@@ -690,8 +710,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-06**|**AGIPC: Adaptive In-Solve Algebraic Coarsening for GPU IPC**|Xuan Wang et.al.|[2605.04773](http://arxiv.org/abs/2605.04773)|null|
 |**2026-05-05**|**Trojan Hippo: Weaponizing Agent Memory for Data Exfiltration**|Debeshee Das et.al.|[2605.01970](http://arxiv.org/abs/2605.01970)|null|
-|**2026-05-02**|**Automatic Aberration Correction for Transcranial Functional and Super-Resolution Ultrasound Imaging in Rodents and Nonhuman Primates**|Paul Xing et.al.|[2605.01538](http://arxiv.org/abs/2605.01538)|null|
+|**2026-05-06**|**Automatic Aberration Correction for Transcranial Functional and Super-Resolution Ultrasound Imaging in Rodents and Nonhuman Primates**|Paul Xing et.al.|[2605.01538](http://arxiv.org/abs/2605.01538)|null|
 |**2026-05-01**|**SoCal: A Language for Memory-Layout Factorization of Recursive Datatypes**|Vidush Singhal et.al.|[2605.01140](http://arxiv.org/abs/2605.01140)|null|
 |**2026-04-29**|**StratMem-Bench: Evaluating Strategic Memory Use in Virtual Character Conversation Beyond Factual Recall**|Yerong Wu et.al.|[2604.26243](http://arxiv.org/abs/2604.26243)|null|
 |**2026-04-21**|**Efficient Page Migration in Hybrid Memory Systems**|Upasna et.al.|[2604.19932](http://arxiv.org/abs/2604.19932)|null|
@@ -739,6 +760,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-08**|**Semantic-Aware Adaptive Visual Memory for Streaming Video Understanding**|Hang Wu et.al.|[2605.07897](http://arxiv.org/abs/2605.07897)|null|
+|**2026-05-08**|**An Efficient Hybrid Sparse Attention with CPU-GPU Parallelism for Long-Context Inference**|Feiyu Yao et.al.|[2605.07719](http://arxiv.org/abs/2605.07719)|null|
+|**2026-05-08**|**Closed-Form Linear-Probe Dataset Distillation for Pre-trained Vision Models**|Bincheng Peng et.al.|[2605.07194](http://arxiv.org/abs/2605.07194)|null|
+|**2026-05-07**|**ROSE: Rollout On Serving GPUs via Cooperative Elasticity for Agentic RL**|Wei Gao et.al.|[2605.06534](http://arxiv.org/abs/2605.06534)|null|
+|**2026-05-07**|**Efficient Serving for Dynamic Agent Workflows with Prediction-based KV-Cache Management**|Haoyu Zheng et.al.|[2605.06472](http://arxiv.org/abs/2605.06472)|null|
+|**2026-05-07**|**Pro-KLShampoo: Projected KL-Shampoo with Whitening Recovered by Orthogonalization**|Ruotong Sun et.al.|[2605.06316](http://arxiv.org/abs/2605.06316)|null|
+|**2026-05-08**|**Relay Buffer Independent Communication over Pooled HBM for Efficient MoE Inference on Ascend**|Tianlun Hu et.al.|[2605.06055](http://arxiv.org/abs/2605.06055)|null|
+|**2026-05-07**|**Requests of a Feather Must Flock Together: Batch Size vs. Prefix Homogeneity in LLM Inference**|Saksham Rathi et.al.|[2605.06046](http://arxiv.org/abs/2605.06046)|null|
+|**2026-05-07**|**TokenStack: A Heterogeneous HBM-PIM Architecture and Runtime for Efficient LLM Inference**|Zhuoran Li et.al.|[2605.05639](http://arxiv.org/abs/2605.05639)|null|
+|**2026-05-06**|**ULF-Loc: Unbiased Landmark Feature for Robust Visual Localization with 3D Gaussian Splatting**|Yingdong Gu et.al.|[2605.04730](http://arxiv.org/abs/2605.04730)|null|
 |**2026-05-05**|**GPUBreach: Privilege Escalation Attacks on GPUs using Rowhammer**|Chris S. Lin et.al.|[2605.03812](http://arxiv.org/abs/2605.03812)|null|
 |**2026-05-05**|**Benchmarking Parameter-Efficient Fine-Tuning of Large Language Models for Low-Resource Tajik Text Generation with the Tajik Web Corpus**|Mullosharaf K. Arabov et.al.|[2605.03742](http://arxiv.org/abs/2605.03742)|null|
 |**2026-05-05**|**Robust Visual SLAM for UAV Navigation in GPS-Denied and Degraded Environments: A Multi-Paradigm Evaluation and Deployment Study**|Prasoon Kumar et.al.|[2605.03678](http://arxiv.org/abs/2605.03678)|null|
@@ -921,6 +952,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-05**|**Resilient AI Supercomputer Networking using MRC and SRv6**|Joao Araujo et.al.|[2605.04333](http://arxiv.org/abs/2605.04333)|null|
 |**2026-05-04**|**A Protocol-Independent Transport Architecture**|Kimiya Mohammadtaheri et.al.|[2605.02210](http://arxiv.org/abs/2605.02210)|null|
 |**2026-05-01**|**Eliminating Hidden Serialization in Multi-Node Megakernel Communication**|Byungsoo Oh et.al.|[2605.00686](http://arxiv.org/abs/2605.00686)|null|
 |**2026-04-19**|**Predictive Multi-Tier Memory Management for KV Cache in Large-Scale GPU Inference**|Sanjeev Rao Ganjihal et.al.|[2604.26968](http://arxiv.org/abs/2604.26968)|null|
@@ -981,7 +1013,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-05-02**|**Automatic Aberration Correction for Transcranial Functional and Super-Resolution Ultrasound Imaging in Rodents and Nonhuman Primates**|Paul Xing et.al.|[2605.01538](http://arxiv.org/abs/2605.01538)|null|
+|**2026-05-06**|**Automatic Aberration Correction for Transcranial Functional and Super-Resolution Ultrasound Imaging in Rodents and Nonhuman Primates**|Paul Xing et.al.|[2605.01538](http://arxiv.org/abs/2605.01538)|null|
 |**2026-04-19**|**Predictive Multi-Tier Memory Management for KV Cache in Large-Scale GPU Inference**|Sanjeev Rao Ganjihal et.al.|[2604.26968](http://arxiv.org/abs/2604.26968)|null|
 |**2026-04-29**|**StratMem-Bench: Evaluating Strategic Memory Use in Virtual Character Conversation Beyond Factual Recall**|Yerong Wu et.al.|[2604.26243](http://arxiv.org/abs/2604.26243)|null|
 |**2026-04-21**|**Efficient Page Migration in Hybrid Memory Systems**|Upasna et.al.|[2604.19932](http://arxiv.org/abs/2604.19932)|null|
